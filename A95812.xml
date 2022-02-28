@@ -1,0 +1,548 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The unsatisfied lovers. A new English novel Part. 1.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1683</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 79 KB of XML-encoded text transcribed from 64 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A95812</idno>
+            <idno type="STC">Wing U94A</idno>
+            <idno type="STC">ESTC R232326</idno>
+            <idno type="EEBO-CITATION">99900101</idno>
+            <idno type="PROQUEST">99900101</idno>
+            <idno type="VID">137650</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A95812)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 137650)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2521:19)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The unsatisfied lovers. A new English novel Part. 1.</title>
+               </titleStmt>
+               <extent>[6], 120 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for James Partridge, at the Post-Office, between Charing-Cross and White-hall,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>M DC LXXXIII. [1683]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Part 1 only.</note>
+                  <note>Reproduction of original in the Newberry Library, Chicago, Illinois.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-01</date>
+            <label>Anne Simpson</label>Sampled and proofread</change>
+         <change>
+            <date>2014-01</date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:137650:1"/>
+            <p>THE <hi>Unſatisfied</hi> LOVERS.</p>
+            <p>A New <hi>ENGLISH</hi> NOVEL.</p>
+            <p>PART. I.</p>
+            <p>
+               <hi>O Formoſe Puer, Nimium ne crede celori.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>James Partridge,</hi> at the <hi>Poſt-Office,</hi> between <hi>Charing-Croſs</hi> and <hi>White-hall,</hi> M DC LXXXIII.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:137650:2" rendition="simple:additions"/>
+            <pb facs="tcp:137650:2" rendition="simple:additions"/>
+            <head>TO THE EARL OF <hi>Ranelagh,</hi> &amp;c.</head>
+            <opener>
+               <salute>My Lord,</salute>
+            </opener>
+            <p>I Have preſum'd to Publiſh this <hi>No<g ref="char:EOLhyphen"/>vel</hi>
+               <pb facs="tcp:137650:3"/>under your <hi>Lord<g ref="char:EOLhyphen"/>ſhips</hi> Protection, know<g ref="char:EOLhyphen"/>ing that your Name (amongſt the Judici<g ref="char:EOLhyphen"/>ous) renders Authen<g ref="char:EOLhyphen"/>tick whatſoever bears its Stamp.</p>
+            <p>But beſides This, there are other Mo<g ref="char:EOLhyphen"/>tives, which have rai<g ref="char:EOLhyphen"/>ſed me to this Confi<g ref="char:EOLhyphen"/>dence: Your Lord<g ref="char:EOLhyphen"/>ſhip has been pleas'd
+<pb facs="tcp:137650:3"/>to Honour me with your continued Fa<g ref="char:EOLhyphen"/>vours. And, my Lord, I hope you will Ac<g ref="char:EOLhyphen"/>cept this Acknowledg<g ref="char:EOLhyphen"/>ment, as a Teſtimo<g ref="char:EOLhyphen"/>ny how much I own your Kindneſs.</p>
+            <p>'Twou'd be imper<g ref="char:EOLhyphen"/>tinent to ſwell this <hi>De<g ref="char:EOLhyphen"/>dication</hi> with an Ac<g ref="char:EOLhyphen"/>count of Your Lord<g ref="char:EOLhyphen"/>ſhip's eminent Birth
+<pb facs="tcp:137650:4"/>and Qualities; Thoſe the World already knows, though it can<g ref="char:EOLhyphen"/>not ſufficiently admire: for which Reaſon, I ſhall be ſilent; only adding, That I am, in all Reſpects,</p>
+            <closer>
+               <salute>My Lord, </salute> 
+               <signed>
+                  <hi>Your Lordſhip's Moſt Humble, and moſt Obedient Servant,</hi> James Partridge.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:137650:4"/>
+            <head>THE Unſatisfied LOVERS. <hi>PART</hi> I.</head>
+            <p>
+               <hi>FRANCE</hi> was never in greater Splendor, than when the Illuſtrious <hi>Mary,</hi> Queen of <hi>
+                  <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cot<g ref="char:EOLhyphen"/>land,</hi> made the fair Additions of her Crown and Perſon to it, by her Marriage with <hi>Fran<g ref="char:EOLhyphen"/>cis,</hi>
+               <pb n="2" facs="tcp:137650:5"/>Daulphine, and Heir to <hi>Henry the Second,</hi> the laſt King that had Iſſue of the Houſe of <hi>Valois:</hi> She was a Princeſs, that ow'd nothing to her Dignity, but her Miſeries; for had She been Born in the loweſt State of Life, her Vertues wou'd have made her Eminent. She was Beautiful in her Perſon, and as well by Nature, as E<g ref="char:EOLhyphen"/>ducation ſo refindly great, She ſeem'd only born to ſupport the Glory of the Greateſt Court, that ever <hi>Europe</hi> knew: For what made her Court the only Circle of Wit and Quality, was becauſe the Queen was of ſo diſſembling, baſe, and po<g ref="char:EOLhyphen"/>litick a Nature, and the Princes <hi>Elizabeth</hi> (the King's Siſter, af<g ref="char:EOLhyphen"/>terwards
+<pb n="3" facs="tcp:137650:5"/>Dutcheſs of <hi>Savoy</hi>) ſo proud, that all thoſe who ſought only to divert them<g ref="char:EOLhyphen"/>ſelves, ſhun'd them as much as Reſpect wou'd give 'em leave.</p>
+            <p>Amongſt the reſt that often paid their Duty to the <hi>Daul<g ref="char:EOLhyphen"/>phine-Queen,</hi> for ſo they call'd the Queen of <hi>Scotland,</hi> being Married to the <hi>Daulphine,</hi> was <hi>Madame de St. Maure,</hi> a Woman of a clear and piercing Wit; and ſo delightfully quick in her Converſation, that every Bo<g ref="char:EOLhyphen"/>dy was pleas'd in her Compa<g ref="char:EOLhyphen"/>ny; and tho' at the bottom ſhe was really good, yet ſhe had ſtill the Fate of Wit; which hating to move in the dull com<g ref="char:EOLhyphen"/>mon Rode, becomes the Cen<g ref="char:EOLhyphen"/>ſure of the Ignorant, and Ill<g ref="char:EOLhyphen"/>natur'd.
+<pb n="4" facs="tcp:137650:6"/>Before ſhe was Fif<g ref="char:EOLhyphen"/>teen, (e're Love had taught her to diſtinguiſh) ſhe was Married by her careful Parents to the <hi>Count de St. Maure,</hi> who was both Handſome, and of a very conſiderable Fortune, and had certainly made a moſt ex<g ref="char:EOLhyphen"/>cellent Husband to any Wo<g ref="char:EOLhyphen"/>man, that had had leſs Wit.</p>
+            <p>As to her Perſon, ſhe might juſtly boaſt of one of the beſt Shapes that ever was ſeen; and though ſhe had not in her Face thoſe charming Stroaks of perfect Beauty, yet ſhe had ſomething ſo agreeable and pleaſing, that all the World admir'd her: The Quickneſs of her Wit, and the little plea<g ref="char:EOLhyphen"/>ſant Satyr, which naturally
+<pb n="5" facs="tcp:137650:6"/>fell in her Diſcourſe, made all thoſe, who were induſtrous in ſeeking their Diverſions, make her of their Party.</p>
+            <p>Though Love was Trium<g ref="char:EOLhyphen"/>phant in almoſt every Breaſt, and Gallantry appear'd the greateſt Buſineſs of the Court, yet <hi>Madam de St. Maure</hi> had ſtill her Thoughts unmov'd with any Paſſion; her Mind was in a ſoft Repoſe, and be<g ref="char:EOLhyphen"/>ing ſecure in peaceful Inno<g ref="char:EOLhyphen"/>cence, ſhe injoy'd all the Plea<g ref="char:EOLhyphen"/>ſures of Life, without the Pain; till <hi>Monſieur de Chaſtillon,</hi> (a Cozen of the renown'd Admi<g ref="char:EOLhyphen"/>rals) came to <hi>Paris,</hi> a Man gallant to the laſt Degree; and though he was extreamly quick, yet he was not eloquent,
+<pb n="6" facs="tcp:137650:7"/>which Nature ſupply'd another way; for ſo judicious an Ho<g ref="char:EOLhyphen"/>neſty appear'd in all his Words, that they perſwaded above the Power of Eloquence. He had not paſs'd many Months there, ere he made a Friend<g ref="char:EOLhyphen"/>ſhip with the young <hi>Count de St. Laurans,</hi> who was one of the neareſt both in Service, and Favour, to the <hi>Daulphine-Queen.</hi>
+            </p>
+            <p>This <hi>Count</hi> was moſt Adroit in all his Exerciſes, as having been bred from his Infancy in the beſt Academies of <hi>France;</hi> and what heightned yet more his Education, was, that his Nearneſs to the <hi>Daulphine-Queen</hi> gave him the frequent Converſation of all thoſe, who
+<pb n="7" facs="tcp:137650:7"/>were remarkable for Wit and Breeding; which poliſh'd in<g ref="char:EOLhyphen"/>to a pleaſing Luſtre, what the pains of his former Studies had filled into a noble Form. But above all, he was a particular Admirer of <hi>Madame de St. Maure,</hi> and by his often Viſits to her, had enter'd into a ſtrict Friendſhip with her; and one may ſay, That two of different Sexes were never purer Friends: It was a Stream of Friendſhip, full and flowing, without the leaſt Violence, or Rapidneſs of an unjuſt Deſire; which gave him occaſion to carry his new Friend <hi>Chaſtillon,</hi> to viſit her: She not being well, they made the firſt Viſit but ſhort, though long enough to raiſe in
+<pb n="8" facs="tcp:137650:8"/>
+               <hi>Chaſtillon's</hi> Mind <hi>Ideas,</hi> that he had never found before: Some<g ref="char:EOLhyphen"/>thing appear'd to him in her Converſation, far above the reſt of her Sex. In fine, he was ſo charm'd with her Wit, that His Soul ſeem'd to be born up<g ref="char:EOLhyphen"/>on her Flights, of Thoughts to Heaven. She being not a little pleas'd with the Sincerity and and Freedom which ſhe found in him, deſir'd the <hi>Count St. Laurans</hi> to bring him often thither; which the <hi>Count</hi> per<g ref="char:EOLhyphen"/>form'd every day, all the time of her Indiſpoſition. Theſe frequent Viſits rais'd <hi>Chaſtil<g ref="char:EOLhyphen"/>lon's</hi> Admiration into a violent Paſſion; he now cou'd find no Quiet when from her; Heaven ſeemed to appear,
+<pb n="9" facs="tcp:137650:8"/>when he beheld her; and Hell when he parted from her. But that ſevere Modeſty, which govern'd all her Actions, ſhew'd him no other Proſpect but Deſpair; yet Love being too ſtrong to yield, his Soul was labouring under the weight of the two moſt furious Paſſions, <hi>Deſpair</hi> and <hi>Love.</hi>
+            </p>
+            <p>He never fail'd the Court of the <hi>Daulphin-Queen,</hi> where <hi>Madame de St. Maure</hi> was con<g ref="char:EOLhyphen"/>ſtant, receiving continual Fa<g ref="char:EOLhyphen"/>vours from that excellent Prin<g ref="char:EOLhyphen"/>ces. He ſought all Opportuni<g ref="char:EOLhyphen"/>ty, by which he might (un<g ref="char:EOLhyphen"/>minded) ſpeak to her; and ſhe, who was not a little pleas'd with his Diſcourſe, (though as yet, not approach<g ref="char:EOLhyphen"/>ing
+<pb n="10" facs="tcp:137650:9"/>any thing of Love,) never deny'd him any. But he was as yet, Alas, ſo young a Pro<g ref="char:EOLhyphen"/>ficient in that Art, that his Deſpair ſo far over-rul'd him, that it made him in ſilence ſuffer as much, as if he had un<g ref="char:EOLhyphen"/>ſucceſsfully reveal'd his Paſſi<g ref="char:EOLhyphen"/>on. But <hi>Love</hi> is of ſo ſubtle a Nature, that every Motion, every Look betrays it. When e're they ſpoke of <hi>Love,</hi> (the common Thearn of Courts) in ſpight of himſelf, preſſed by the abundance of his Mind, he wou'd infer the Pain of <hi>Secret Love;</hi> and leaſt ſhe ſhou'd ſuſpect, he wou'd confirm what he had ſaid, by inſtan<g ref="char:EOLhyphen"/>cing ſome of the Court, that lay under that unhappy Cir<g ref="char:EOLhyphen"/>cumſtance.
+<pb n="11" facs="tcp:137650:9"/>But in vain he ſtrove to hide it; for well ſhe ſaw, his Words, in ſpight of all his Art, bore ſtill a Tin<g ref="char:EOLhyphen"/>cture of the diſtracted Mind, from whence they ſprung: At which, ſhe was not at all un<g ref="char:EOLhyphen"/>eaſy; for there are few Wo<g ref="char:EOLhyphen"/>men, but Love a Conqueſt, when it tends not to the Ruin of their Honours; and ſhe be<g ref="char:EOLhyphen"/>liev'd, that he wou'd never re<g ref="char:EOLhyphen"/>veal his Paſſion, and ſo it wou'd be no great Detriment to her's: Beſides, ſhe liked him well enough, to think the Victory well worth the Pains. But his Paſſion was grown too violent, to remain unſeen; for the whole Frame of his Nature was alter'd; his Converſation,
+<pb n="12" facs="tcp:137650:10"/>which before was ſteady and judicious, now was nothing but a rapſody of unchain'd Words: He, who had lov'd a general Converſe, and free Acquaintance, now paſs'd the greateſt Part of his uneaſy Hours alone, in his Cloſet.</p>
+            <p>Which wonderfull Change the <hi>Count de St. Laurans</hi> ſoon perceiv'd; and one Day, find<g ref="char:EOLhyphen"/>ing him ſo alone, preſſed Him by all the Power of Friendſhip, to tell him from whence it pro<g ref="char:EOLhyphen"/>ceeded: At firſt he anſwered him, That it only was an Indiſ<g ref="char:EOLhyphen"/>poſition of the Body, and that the Spleen was really the rea<g ref="char:EOLhyphen"/>ſon of his being ſo. But the <hi>Count,</hi> knowing the Spleen to be a Diſtemper incident to ſo
+<pb n="13" facs="tcp:137650:10"/>many People, thought that there needed not ſo much pain to tell it, if that had been all: and from thence concluded, it was but a feign'd Excuſe, to conceal ſome weighty Truth; which made him preſs him ſtill more violently, till, at length, <hi>Chaſtillon</hi> (leaning his Head up<g ref="char:EOLhyphen"/>on the <hi>Count's</hi> Shoulder) ſaid; <hi>Oh my Friend! Sure thou didſt conſpire againſt my Quiet, when thou carriedſt me to that inevita<g ref="char:EOLhyphen"/>ble Beauty, that no Man ſees unmov'd; to her, who is ſo Hea<g ref="char:EOLhyphen"/>venly Bright, none can behold and Live. Ah! preſs me no farther; but let me in Silence and deſpair, end my unhappy Life.</hi>
+            </p>
+            <pb n="14" facs="tcp:137650:11"/>
+            <p>The <hi>Count,</hi> who immediate<g ref="char:EOLhyphen"/>ly knew at what his Words di<g ref="char:EOLhyphen"/>rected, was much ſurprized to ſee his Paſſion (in ſo little a time) grown to that Prodigi<g ref="char:EOLhyphen"/>ous Height; but ſince it was ſo, he thought it beſt, with all Care, to indeavour to divert it. <hi>You have been too blame,</hi> (ſaid he) <hi>to yield ſo far to the falſe Inſinuations of Love, which had you taken ſooner, like tender Plants, you might have torn up by the Roots; but now it is grown ſo ſtrong, that it requires Time, and Labour, to hew it down; a long and painful Abſence, with all the Force of Reſolution. Talk not of Abſence, without Death</hi> (reply'd <hi>Chaſtillon) for I find, when I am but one Day without
+<pb n="15" facs="tcp:137650:11"/>ſeeing her, Nature moves weak<g ref="char:EOLhyphen"/>ly in me, and I decline like to that Flower, which bends its fee<g ref="char:EOLhyphen"/>ble Head when the Sun ſets, but is reviv'd again by his Morning Beams: Beſides I have no Power to quit her; for all my Faculties deny Obedience to my Reaſon, and bend towards Her their pro<g ref="char:EOLhyphen"/>per Center. If I beheld</hi> (anſwer'd the <hi>Count) but the leaſt Proſpect of Satisfaction for you, I ſhould offer you all my Power to ſerve you; but ſince I do not, pardon me, if I tell you, No Man (but you) e're ran upon ſo plain a Ru<g ref="char:EOLhyphen"/>ine: Therefore, I do conjure you, for your own Quiet, re-aſſume your Reaſon, to overcome a Paſ<g ref="char:EOLhyphen"/>ſion that will never let you reſt. Think but how much it is below
+<pb n="16" facs="tcp:137650:12"/>the Free, and Noble Nature of a Man, to be ſubject to the Weak<g ref="char:EOLhyphen"/>neſs of a Woman; and then caſt her from thee, as a Thing not worth ſo many Sighs. Ah! Friend,</hi> (anſwer'd <hi>Chaſtillon) they talk but ill of Love, that never felt it; Do you believe, I wear my Paſſion as I do my Cloaths, that if I find it uneaſy, I can caſt it off without Trouble. You much miſtake; for as ſoon as Love enters into a Heart, he becomes Abſolute Monarch o're the Mind, and ſits in Triumph upon every Thought. But to ſhew you how kindly I receive your Ad<g ref="char:EOLhyphen"/>vice, I promiſe you to uſe all Means, that I think may help my Cure.</hi>
+            </p>
+            <pb n="17" facs="tcp:137650:12"/>
+            <p>To ſhew him, that he in<g ref="char:EOLhyphen"/>tended what he ſaid, he went that Night abroad with him to a Ball, that the Duke of <hi>Guiſe</hi> gave the <hi>King.</hi> Certainly, there never was a more Mag<g ref="char:EOLhyphen"/>nificent Entertainment; the prodigious Number of Flam<g ref="char:EOLhyphen"/>beaus ſet in every Window of the Streets, through which the <hi>King</hi> paſſed, made them appear more Bright, than in the cleareſt Day: Nor was it in any thing leſs great, within the Houſe; for beſides the wonderful Quantity of the Richeſt Plate, and Furniture, the Tables were filled with all the delicate Meats, that the moſt induſtrious Epicure cou'd prepare. And to add to this,
+<pb n="18" facs="tcp:137650:13"/>there was all the Glory of the Court, both Men and Women, dreſſed with all the Advantage, that Coſt and Pain could give them. The <hi>Count</hi> went Home, and dreſſed himſelf for the Ball; but for <hi>Chaſtillon,</hi> his Mind was too much imploy'd on other things, to regard his Dreſſing. No ſooner were they enter'd, and had pay'd their Duty to the <hi>King,</hi> and <hi>Queen,</hi> and the Reſt, to whom they ow'd it; but <hi>Chaſtillon</hi> began to look impatiently a<g ref="char:EOLhyphen"/>bout, to ſee if <hi>Madam de St. Maure</hi> was there; but hearing that the Night before ſhe had taken cold, and therefore durſt not ſtir abroad, he ſoon grew weary of the Place; and all
+<pb n="19" facs="tcp:137650:13"/>that Pomp and Show, (which but ſome few Weeks before, would have given him vaſt Delight) had now quite loſt their value; for ſhe not being there, he beheld all the Glory of the Court, with ſuch a dull indifference, that he ſoon grew weary of it, and Stole away; and immediately ſent to ſeek out the beſt Muſick he could find, both of Voices and In<g ref="char:EOLhyphen"/>ſtruments, (for he was now reſolv'd to give a Seranade to <hi>Madam de St. Maure</hi>) ſo weak are Lover's Reſolutions, and ſo ſoon he had forgot the pro<g ref="char:EOLhyphen"/>miſes he made to the <hi>Count St. Laurans,</hi> and having Muſter'd up his Troop of Muſicians, he commanded them to play at
+<pb n="20" facs="tcp:137650:14"/>the end of the Street, nigh her Houſe. No ſooner had they began, but ſhe immediately imagined to whom they were Addreſſed, and by whom: But when ſhe heard this Song, ſhe thought her ſelf confirmed be<g ref="char:EOLhyphen"/>yond all doubt.</p>
+            <floatingText xml:lang="eng" type="song">
+               <body>
+                  <head>SONG.</head>
+                  <lg>
+                     <head>I.</head>
+                     <l>
+                        <hi>NO more, fond Love, thy Torments I defie,</hi>
+                     </l>
+                     <l>
+                        <hi>For it is better much to Dye,</hi>
+                     </l>
+                     <l>
+                        <hi>Than to Reveal</hi>
+                     </l>
+                     <l>
+                        <hi>A Paſſion, which I ought for to conceal.</hi>
+                     </l>
+                  </lg>
+                  <pb n="21" facs="tcp:137650:14"/>
+                  <lg>
+                     <head>II.</head>
+                     <l>
+                        <hi>I rather to the Grave my Pain will bear,</hi>
+                     </l>
+                     <l>
+                        <hi>Without one Sigh, than injure her;</hi>
+                     </l>
+                     <l>
+                        <hi>So ſhall I prove</hi>
+                     </l>
+                     <l>
+                        <hi>The trueſt Martyr, that e're Dy'd for Love.</hi>
+                     </l>
+                  </lg>
+               </body>
+            </floatingText>
+            <p>The <hi>Count de St. Maure</hi> (though no way ſuſpecting his Wife, yet) was naturally jea<g ref="char:EOLhyphen"/>lous; which gave him a Cu<g ref="char:EOLhyphen"/>rioſity to ſee to whom this Se<g ref="char:EOLhyphen"/>ranade was directed; which made him go down to in<g ref="char:EOLhyphen"/>form himſelf. Now the <hi>Count St. Laurans,</hi> having miſſed <hi>Chaſtillon</hi> at the Ball, purſued
+<pb n="22" facs="tcp:137650:15"/>him, as being unwilling to have him alone; when, paſ<g ref="char:EOLhyphen"/>ſing through the Street, and hearing the Noiſe of Muſick, he bad his Coach drive up to<g ref="char:EOLhyphen"/>wards it; where he found his Friend <hi>Chaſtillon</hi> at the Head of the Conſort. This Raſh<g ref="char:EOLhyphen"/>neſs vext him to the Soul; for he was afraid, leſt it might make the <hi>Count de St. Maure</hi> (whom he knew ſuſpicious) obſerve <hi>Chaſtillon</hi> more nar<g ref="char:EOLhyphen"/>rowly hereafter, whoſe Paſſi<g ref="char:EOLhyphen"/>on he knew was grown to that height, that a Thouſand Things would betray it every moment to any curious Eye; and he knew, if her Husband perceived the leaſt Appearance of it, that the moſt favourable
+<pb n="23" facs="tcp:137650:15"/>Conſequences would be Do<g ref="char:EOLhyphen"/>meſtick Uneaſineſſes; which made him not ſtay long in his Coach, but alighting, told them all to <hi>Chaſtillon;</hi> who, at the Thought that his Indiſ<g ref="char:EOLhyphen"/>cretion might be prejudicial to her he loved, ſtood like a Stone unmov'd, not knowing what to anſwer. Juſt in this Inte<g ref="char:EOLhyphen"/>rim came down the <hi>Count de St. Maure,</hi> and ſeeing the <hi>Count de St. Laurans</hi> in the midſt of the Seranade, asked him con<g ref="char:EOLhyphen"/>cerning it; who anſwered, <hi>That</hi> Monſieur Chaſtillon <hi>gave it to a young Lady, his Neighbour, whom he had a Deſign to make his Addreſſes to hereafter, in the Honourable way of Marriage.</hi> The <hi>Count</hi> ſmiled, and took
+<pb n="24" facs="tcp:137650:16"/>for a full Anſwer, and promiſed <hi>Chaſtillon</hi> all his power to ſerve him, if he would make him his Confident: And then forced them into his Houſe, almoſt whether they would or no, and carried them up to his Wife, who not being well, kept her Bed that day. He told her, as ſoon as ever he entered, all that the <hi>Count de St. Laurans</hi> had told him concerning the Seranade. But when ſhe heard him talk of Marriage, ſhe be<g ref="char:EOLhyphen"/>gan to ſuſpect, that ſhe had been miſtaken all this while, and that what ſhe took for Love to Her, had been dire<g ref="char:EOLhyphen"/>cted to ſome Other; which gave her a certain pain, that ſhe knew not how to Name;
+<pb n="25" facs="tcp:137650:16"/>for it was not Jealouſie, ſhe thought, becauſe (as yet) ſhe had not found any Appearan<g ref="char:EOLhyphen"/>ces of Love.</p>
+            <p>
+               <hi>It is</hi> (ſays ſhe) <hi>a dangerous thing, that</hi> Monſieur de Cha<g ref="char:EOLhyphen"/>ſtillon <hi>is going to undertake, and few conſider it, as the moſt im<g ref="char:EOLhyphen"/>portant Moment of their Lives; but every one thinks he ſhall be Happy, never regarding the ma<g ref="char:EOLhyphen"/>ny miſerable Couples, that are as many Inſtances to the contrary. But this perhaps may appear un<g ref="char:EOLhyphen"/>grateful in me, who have all that the moſt Happy can enjoy in Mar<g ref="char:EOLhyphen"/>riage.</hi>
+            </p>
+            <p>
+               <hi>Madame,</hi> (replyed St. <hi>Lau<g ref="char:EOLhyphen"/>rans</hi>) <hi>our Holy Divines forewarn
+<pb n="26" facs="tcp:137650:17"/>the World of Sin, by the Vices of Others, if they are not guilty of any themſelves.</hi>
+            </p>
+            <p>
+               <hi>Chaſtillon</hi> (who durſt not abſolutely deny it, and yet was loath to have her think it true) ſaid; <hi>Madame, as yet I have not fixt my Reſolution; there<g ref="char:EOLhyphen"/>fore, it may be, it will only end in a Gallantry: But I am ſtill obliged to you for your kind Cau<g ref="char:EOLhyphen"/>tion; which may make me avoid many unquiet Hours, that other<g ref="char:EOLhyphen"/>wiſe might have fallen upon me.</hi>
+            </p>
+            <p>He ſpoke this with ſuch a confuſed Awkwardneſs, that the <hi>Count de St. Laurans</hi> grew ſo uneaſy, that he abruptly took his Leave, (pretending he
+<pb n="27" facs="tcp:137650:17"/>was to go to the Ball) leſt the <hi>Count St. Maure</hi> ſhould per<g ref="char:EOLhyphen"/>ceive it; but went ſtreight home to his own Lodgings, where he made <hi>Chaſtillon</hi> ſtay with him all Night.</p>
+            <p>This doubtful Speech made <hi>Madame de St. Maure</hi> in pain what to judge; but what made her yet more, was the manner that it was ſpoken in. She be<g ref="char:EOLhyphen"/>gan to wiſh, that his Court<g ref="char:EOLhyphen"/>ſhip was made to her ſelf; but yet the Circumſtances were too ſtrong, not to believe the contrary; and ſhe found no other way, but to referre to Time the expounding of the Myſtery: and in the interim, reſolve to be at reſt. But, Alas!
+<pb n="28" facs="tcp:137650:18"/>
+               <hi>Chaſtillon</hi>'s Paſſion began to grow too violent, to be ſmo<g ref="char:EOLhyphen"/>ther'd: He quickly clear'd her Doubt by a Thouſand (as ſhe thought) demonſtrative Argu<g ref="char:EOLhyphen"/>ments; and from this little Op<g ref="char:EOLhyphen"/>poſition, ſhe began to ſwell in<g ref="char:EOLhyphen"/>to a greater Liking of him; inſomuch, that ſhe felta Change in her ſelf every time ſhe only heard his Name, or any thing that concern'd him; which daily grew more and more up<g ref="char:EOLhyphen"/>on her.</p>
+            <p>As the Court was never ful<g ref="char:EOLhyphen"/>ler of Illuſtrious Perſons, ſo was there never more Magnificent Diverſions; as Tilts, Turna<g ref="char:EOLhyphen"/>ments, Running at the Ring, <hi>&amp;c.</hi> But none was ever more
+<pb n="29" facs="tcp:137650:18"/>remarkably Great, than that at the Marriage of the <hi>Duke D'aumail,</hi> with the Daughter of the Dutcheſs of <hi>Valentinois:</hi> This <hi>Duke D'aumail</hi> was Third Brother to the <hi>Duke of Guiſe;</hi> whoſe Father <hi>Claudian,</hi> Young<g ref="char:EOLhyphen"/>er Brother to the <hi>Duke of Lor<g ref="char:EOLhyphen"/>rain,</hi> coming into <hi>France</hi> to Poſſeſs himſelf of the <hi>Dutchy of Guiſe,</hi> had ſo far inſinuated himſelf into the Favour of <hi>Francis the Firſt,</hi> (the King's Father) that he Eſtabliſhed his Family ſo great in <hi>France,</hi> as to contend even with the Prin<g ref="char:EOLhyphen"/>ces of the Blood. He left Three Sons, <hi>Francis</hi> Duke of <hi>Guiſe, Charles</hi> Cardinal of <hi>Lorrain,</hi> and this Duke <hi>D'aumail;</hi> all which became ſo Eminent, that they
+<pb n="30" facs="tcp:137650:19"/>ſtill encreas'd the mighty Fa<g ref="char:EOLhyphen"/>brick of Greatneſs, that their Father had built.</p>
+            <p>This Family of <hi>Lorraine,</hi> growing in ſo ſmall a Time to that vaſt height of Power, had drawn the Envy of all the No<g ref="char:EOLhyphen"/>bility againſt it; for ſtill, who<g ref="char:EOLhyphen"/>ſoever increaſes Greatneſs, in<g ref="char:EOLhyphen"/>creaſes Enemies; and eſpecial<g ref="char:EOLhyphen"/>ly, Strangers: So they thought to confirm themſelves more in the King's Favour, by making this Alliance with the Dutcheſs of <hi>Valentinois,</hi> whom the King had paſſionately lov'd for a<g ref="char:EOLhyphen"/>bove Twenty Years; and even on his Death-bed, confeſt he Lov'd her ſtill.</p>
+            <pb n="31" facs="tcp:137650:19"/>
+            <p>The Liſt was ſet in the great Court of the <hi>Louvre;</hi> the Gal<g ref="char:EOLhyphen"/>leries, which ſurrounded it, were all hung with Cloath of Gold; and in the Middle of the largeſt Square, was plac'd a Canopy of high Imbroide<g ref="char:EOLhyphen"/>ry; under which were ſet the <hi>Queen,</hi> the <hi>Daulphine-Queen,</hi> and the Princeſs <hi>Elizabeth;</hi> and on each Hand, ſat the Firſt of the Nobility.</p>
+            <p>Surely, never was there a Court that ſhin'd with a great<g ref="char:EOLhyphen"/>er Number of Excellent Beau<g ref="char:EOLhyphen"/>ties: For the Queen <hi>(Katherine de Medicis)</hi> as their own Hiſto<g ref="char:EOLhyphen"/>rians report, was ſo profound<g ref="char:EOLhyphen"/>ly cunning, that ſhe drew to Court the Faireſt of the King<g ref="char:EOLhyphen"/>dom;
+<pb n="32" facs="tcp:137650:20"/>over moſt of which ſhe gain'd, by vaſt Temptations, ſo abſolute a Power, as to pro<g ref="char:EOLhyphen"/>ſtitute themſelves to the Chief Miniſters, to make her Miſtreſs of all the Secrets of State.</p>
+            <p>But amongſt thoſe, whoſe Eyes appear'd this Day like ſo many influencing Stars, to add new Strength and Vigor to the contending Gallantry of the Men, none look'd ſo fair as <hi>Mademoiſelle de Poictiers,</hi> a Cozen (tho' at a diſtance) of the Dutcheſs of <hi>Valentinois.</hi> It was the firſt time ſhe ever ap<g ref="char:EOLhyphen"/>pear'd at Court, where ſhe came to be Maid of Honour to the <hi>Daulphine-Queen.</hi> Whether it were the Newneſs of her
+<pb n="33" facs="tcp:137650:20"/>Beauty, or whether ſhe really deſerved it, I know not; but certainly, never Woman had ſo many Admirers, in ſo ſhort a time. Though ſhe was low of Stature, yet ſhe had an Air that made her ſo unexpreſſibly Beautiful, that nothing but to have ſeen her, can give a true <hi>Idea</hi> thereof: Beſides, a plea<g ref="char:EOLhyphen"/>ſant Fantaſtick Genius, right turn'd to pleaſe at Court, and to inſnare Young Adoration.</p>
+            <p>The Firſt that enter'd the Liſt, was the King himſelf: His Colours were <hi>Black</hi> and <hi>White,</hi> which he always wore in reſpect to <hi>Madame de Valen<g ref="char:EOLhyphen"/>tinois,</hi> who was a Widow. He was mounted upon a large
+<pb n="34" facs="tcp:137650:21"/>White <hi>Arabian</hi> Horſe; ſo ſtate<g ref="char:EOLhyphen"/>ly a Creature, that he ſeem'd too proud to carry any thing but a King. His Bit and Stir<g ref="char:EOLhyphen"/>rups were of Beaten Gold; the Boſſes of the Bit, were large Rubies, ſet round with Dia<g ref="char:EOLhyphen"/>monds; and, on the Horſes Front, was a large Jewel, of all ſorts of the Richeſt Stones; ſo big, that it almoſt cover'd all his Fore-head. In the midſt of which, the King bore his Device; which was a <hi>Cupid ſitting in the Middle of a Circle,</hi> holding in his Hand a <hi>Flaming Heart;</hi> and over the <hi>Cupid</hi>'s Head was writ this Motto, <hi>Ma Flame durera juſque a L'eterni<g ref="char:EOLhyphen"/>te, My Flame will laſt to Eter<g ref="char:EOLhyphen"/>nity;</hi> (of which a <hi>Circle</hi> is the Emblem.)</p>
+            <pb n="35" facs="tcp:137650:21"/>
+            <p>The <hi>Daulphine</hi> followed his Father. The Colours which he wore; were <hi>White.</hi> He was mounted on a large Black <hi>Spa<g ref="char:EOLhyphen"/>niſh Genet:</hi> His Bridle, and his Stirrups, were of Silver. He gave for his Device the <hi>King<g ref="char:EOLhyphen"/>dom of France;</hi> and on one ſide, a <hi>Cupid laid down aſleep, with his Bow and Arrows broken by him;</hi> with this Motto, <hi>C'est toy qui me fait abandoner L'amour; 'Tis for Thee I abandon Love.</hi>
+            </p>
+            <p>The next that enter'd, was the <hi>Duke of Guiſe,</hi> (for the King of <hi>Navarre,</hi> and the Prince of <hi>Conde,</hi> his Brother, the on<g ref="char:EOLhyphen"/>ly Princes of the Blood, were not then in <hi>France.</hi>) His Co<g ref="char:EOLhyphen"/>lours
+<pb n="36" facs="tcp:137650:22"/>were <hi>Green.</hi> He was moun<g ref="char:EOLhyphen"/>ted on a White <hi>Croation-Horſe;</hi> which, according to the Tem<g ref="char:EOLhyphen"/>per, which is particular to Horſes of that Country, had naturally Bled himſelf in many Places of his Body, that his Blood running down, appear'd like ſo many Streakes of Red, mixt with the White. He bore for his Device the <hi>Sun;</hi> and for his Motto, <hi>Rien que la Gloire; Nothing but Glory.</hi>
+            </p>
+            <p>After his Brother, enter'd the Bridegroom himſelf. He rode upon a Milk-white <hi>Spaniſh-Ge<g ref="char:EOLhyphen"/>net:</hi> His Colours were <hi>Scarlet;</hi> which ſhew'd the Victory he had obtain'd; as alſo, it beſt fitted him: for never was there
+<pb n="37" facs="tcp:137650:22"/>Man known of a fiercer Na<g ref="char:EOLhyphen"/>ture. His Device was a <hi>Love ſhooting Two Hearts with the ſame Arrow;</hi> and the Motto, <hi>En ſin nous ſomes heureux; At length, we are Happy.</hi>
+            </p>
+            <p>There was many more of great Quality; but ſhould I name them all, twould ſwell too much my Narration: There<g ref="char:EOLhyphen"/>fore, I ſhall only tell you, That the <hi>Count St. Laurans</hi> and <hi>Cha<g ref="char:EOLhyphen"/>ſtillon</hi> were both there. The <hi>Count</hi> rode upon a large <hi>Turk<g ref="char:EOLhyphen"/>iſh-Horſe.</hi> His Colours were <hi>Blue.</hi> He bore for his Device, a <hi>Cupid with a Vail over his Face,</hi> with this Motto, <hi>Je ne veux pas <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> connoitre; I will not know thee.</hi>
+            </p>
+            <pb n="38" facs="tcp:137650:23"/>
+            <p>
+               <hi>Chaſtillon</hi> entred the Liſt up<g ref="char:EOLhyphen"/>on a Bay Courſer of <hi>Naples.</hi> His Colours were <hi>Grediline</hi> and <hi>Fevilemort;</hi> which extraordi<g ref="char:EOLhyphen"/>nary Mixture made all People wonder, but <hi>Madame de St. Maure;</hi> who ſoon divin'd, that he meant by <hi>Grediline, Secret Love;</hi> and by <hi>Fevilemort,</hi> his <hi>Deſpair.</hi> His Device was a <hi>Cu<g ref="char:EOLhyphen"/>pid ſhooting at a Rock, and all his Arrows falling broken to the Ground;</hi> and the Motto, <hi>Trop dure d'eſtre penetrer; Two hard to be pierced.</hi>
+            </p>
+            <p>For the aforeſaid Reaſon, I ſhall not give you an Account of each Particular of the Day; but you may eaſily imagine,
+<pb n="39" facs="tcp:137650:23"/>that there was never greater Magnanimity ſhown; for be<g ref="char:EOLhyphen"/>ſides their Adroitneſs, and known Valours, moſt of them were before their Miſtreſſes. But becauſe it comes within the compaſs of my Story, it will not be amiſs to tell you, That <hi>Chaſtillon</hi> was ſo heightned with the Sight of <hi>Madame de St. Maure,</hi> that he appear'd far above himſelf. Juſt in the Liſt und<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r her, he unhorſed the Duke of <hi>Guiſe,</hi> who was not a little concern'd to receive a Re<g ref="char:EOLhyphen"/>pulſe from any Body, eſpecial<g ref="char:EOLhyphen"/>ly one of that Family. The <hi>Count</hi> won two Prizes at the Ring; but, Alas! in this Days Adventure, he loſt a greater, his <hi>Heart;</hi> for no ſooner had
+<pb n="40" facs="tcp:137650:24"/>he ſeen <hi>Mademoiſelle de Poicti<g ref="char:EOLhyphen"/>ers,</hi> but there appear'd ſome<g ref="char:EOLhyphen"/>thing ſo pleaſing to him in her, that he had never ſeen in any Woman, but her ſelf. He gaz'd upon her, and at every Look found ſomething Delightful ſteal about his Heart; which made his Eyes unwilling ever to quit the Object.</p>
+            <p>The Morning being thus paſ<g ref="char:EOLhyphen"/>ſed, they all retired Home, to prepare themſelves for a Ball at Night; for which there was great Preparations on all ſides; every one ſeeming to vye with each other, who ſhould appear with the greateſt Luſtre.</p>
+            <p>The Counteſs <hi>de St. Maur's</hi>
+               <pb n="41" facs="tcp:137650:24"/>liking to <hi>Chaſtillon,</hi> was grown daily more and more upon her; and particularly, that Day he behaved himſelf ſo gallantly, that ſomething whiſper'd in her Soul, what ſhe would have given the World not to have known: But, in ſpight of her ſelf, it told her, That ſhe loved. She wiſhed a thouſand times, he would declare his Paſſion; but then conſidering ſhe was Married, a thouſand contrary Wiſhes blotted the former out. At length, (being alone in her Cloſet) ſhe fell to Pray<g ref="char:EOLhyphen"/>ers, hopeing by Supernatural Means to regain her Freedom. But, Alas! her Heart and Tongue too much diſagreed, to gain relief that way; for whilſt
+<pb n="42" facs="tcp:137650:25"/>her Mouth was offering Holy Prayers for Liberty, her con<g ref="char:EOLhyphen"/>tradicting Heart was wiſhing ſtill to be a Slave. So pleaſant were the Chains ſhe wore. At length, almoſt diſtracted be<g ref="char:EOLhyphen"/>tween Reaſon and Paſſion, from the Anguiſh of her Mind, ſhe burſt out into theſe Words: <hi>Alas! If Love be not a volunta<g ref="char:EOLhyphen"/>ry Motion, but far above our Rea<g ref="char:EOLhyphen"/>ſon to controul, how can it be a Sin? Come all ye Pious Phyſici<g ref="char:EOLhyphen"/>ans of the Mind, who with your grave Advice, pretend to lead us to the Paths of Bliſs, give me a Balm to cure this Wound; and then I'le ſay, You are Maſters of your Art. But, Oh! you only bid us to be well: And, Alas! what Succor's that to her, who's raging
+<pb n="43" facs="tcp:137650:25"/>in a Feaver, unleſs you provide her too the Means to be ſo?</hi>
+            </p>
+            <p>Juſt as ſhe was in the height of this Exclamation, one knock<g ref="char:EOLhyphen"/>ed at her Door, and told her, That the Count <hi>St. Laurans</hi> was without. When having a little compoſed her ſelf, ſhe went out to him. The firſt thing he ſaid to her, he asked her, with an unuſual Impatience, <hi>Who that was that ſate nigh her?</hi> deſcribing <hi>Mademoiſelle de Poi<g ref="char:EOLhyphen"/>ctiers.</hi> She immediately told him; and he frankly reveal'd to her, That ſince he ſaw her, he found a Change in himſelf, and a wonderful Deſire to ſee her again; and that he was juſt going to Court, to try if
+<pb n="44" facs="tcp:137650:26"/>he could (by any means) in<g ref="char:EOLhyphen"/>gratiate himſelf into the Hap<g ref="char:EOLhyphen"/>pineſs of her Converſation; to ſee if her Soul was as rich in Perfections, as her Body; and ſo he left her to her painful Thoughts.</p>
+            <p>
+               <hi>Chaſtillon,</hi> who all this while was meditating what way to take, to put a period to his Love, reſolv'd at length to de<g ref="char:EOLhyphen"/>clare his Love; for his Diſeaſe was now grown ſo deſperate, that it was uſeleſs to apply moderate Remedies. He found he could not ſuffer more by her Anger, than he did by his Silence; for that Death would certainly be the Iſſue of One, and that he had a Chance
+<pb n="45" facs="tcp:137650:26"/>to be Happy in the Other.</p>
+            <p>Upon which Reſolution he went ſtraight to Court, to find out <hi>St. Laurans;</hi> with an In<g ref="char:EOLhyphen"/>tention to tell him his Deſigne; where he found him entertain<g ref="char:EOLhyphen"/>ing <hi>Mademoiſelle de Poictiers;</hi> whom he had found in the Drawing-Room, ſtanding by the Fire, with his Siſter <hi>Made<g ref="char:EOLhyphen"/>moiſelle D'aupre's,</hi> another of the Maids to the <hi>Daulphine-Queen. Chaſtillon</hi> entred into the Converſation; and, in a ſmall time, <hi>Madam de St. Maure</hi> came in dreſs'd for the Ball, with all the Advantages that Cloaths could give to one, who was on all Occaſions al<g ref="char:EOLhyphen"/>low'd the beſt dreſt Woman
+<pb n="46" facs="tcp:137650:27"/>of the Court. But, Alas! her Heart was heavy; ſhe had a Weight of Grief hung at it, without the Power to vent it: For had ſhe ſtaid at home, ſhe would have diſappointed the King and Queen, who de<g ref="char:EOLhyphen"/>pended upon her for to dance that Night. But though her Soul was all diſquiet, her Face betray'd not the leaſt Shew of it: For that Diſſimulation, which (they ſay) is natural to her Sex, only in this was kind to her, that ſhe could com<g ref="char:EOLhyphen"/>mand her Looks to be of a quite different Complexion from her Thoughts: But ſtill it mitiga<g ref="char:EOLhyphen"/>ted not her inward Pain. And it is one of the greateſt Fines Heaven ſets upon Greatneſs,
+<pb n="47" facs="tcp:137650:27"/>that they are often forc'd be<g ref="char:EOLhyphen"/>fore the World almoſt to burſt with Secret Grief in ſilence; when the Vulgar may, unmin<g ref="char:EOLhyphen"/>ded retire themſelves, and by complaining, find ſome Eaſe.</p>
+            <p>The <hi>Count</hi> had not much time with <hi>Mademoiſelle de Poi<g ref="char:EOLhyphen"/>ctiers;</hi> for every Body was crowding to admire her. Nei<g ref="char:EOLhyphen"/>ther was this firſt Encounter advantageous to him; for of all the Men of the Court, ſhe lik'd <hi>Chastillon</hi> much the beſt.</p>
+            <p>The Ball laſted till it was ve<g ref="char:EOLhyphen"/>ry late; but as ſoon as it was done, <hi>Chaſtillon</hi> went home with the Count; to whom he told his Reſolution to declare
+<pb n="48" facs="tcp:137650:28"/>his Love. The Count replied: <hi>My deareſt Friend, and after that I need not ſay, I love you. People are apt to judge accord<g ref="char:EOLhyphen"/>ing to the Event of Things, that there are few, to whom we ought to give Advice; eſpecially in what concerns them ſo nearly, as (you ſay) this does you: But ſince it would appear unkind in me to deny you, I muſt freely tell you, I ſtill adviſe you to rally your ſcatter'd Troops of conquer'd Reaſon, and once more try if you can overcome this Rebel Paſ<g ref="char:EOLhyphen"/>ſion. But if he be ſo far Maſter of the Field, that you find all your Attempts are vain, then ne<g ref="char:EOLhyphen"/>ver make your Life a Miſery; but tell her nobly of it, and end it as ſhe ſhall determine.</hi>
+            </p>
+            <pb n="49" facs="tcp:137650:28"/>
+            <p>
+               <hi>As for the Firſt</hi> (replyed <hi>Cha<g ref="char:EOLhyphen"/>ſtillon) my Reaſon is too far di<g ref="char:EOLhyphen"/>ſtracted, e're to be reclaimed: Therefore, I will reſolve upon the laſt, as ſoon as Fortune will per<g ref="char:EOLhyphen"/>mit me a favourable Moment.</hi>
+            </p>
+            <p>Big with this Reſolution, he took his Leave of the <hi>Count;</hi> who all Night, inſtead of ſound and undiſturbed Sleep, found nothing but Slumbers hang up<g ref="char:EOLhyphen"/>on his Eyes, full of fair <hi>Ideas</hi> proceeding from the bright Object he had ſeen that day.</p>
+            <p>The next day he fail'd not to go ſee his Siſter <hi>Mademoiſel<g ref="char:EOLhyphen"/>le D'aupre's,</hi> where he found both <hi>Madame de St. Maure,</hi> and
+<pb n="50" facs="tcp:137650:29"/>
+               <hi>Mademoiſelle de Poictiers;</hi> which happy Adventure preſently ap<g ref="char:EOLhyphen"/>pear'd to him, as a propitious Omen of his future Succeſs. He paſs'd moſt part of that Af<g ref="char:EOLhyphen"/>ternoon with them; and one may imagine, not a little to his Satisfaction. In which time he was induſtrious to make <hi>Madame de St. Maure,</hi> and <hi>Ma<g ref="char:EOLhyphen"/>demoiſelle de Poictiers</hi> have e<g ref="char:EOLhyphen"/>qually a good Opinion of each other. And in this he was ſo far ſucceſsful, that in a few days they were ſeldom ſeen a<g ref="char:EOLhyphen"/>ſunder.</p>
+            <p>That Evening, the Weather being extreamly fair, they all four went out to walk toge<g ref="char:EOLhyphen"/>ther: When <hi>Madame de St.
+<pb n="51" facs="tcp:137650:29"/>Maure,</hi> being earneſt in Diſ<g ref="char:EOLhyphen"/>courſe with <hi>Mademoiſelle D'au<g ref="char:EOLhyphen"/>pre's,</hi> walk'd on a little before; and becauſe they would not be interrupted, they paſſed in<g ref="char:EOLhyphen"/>to a By-walk; the <hi>Count</hi> and <hi>Mademoiſelle de Poictiers</hi> fol<g ref="char:EOLhyphen"/>lowing them at a diſtance. He being of a quite different Tem<g ref="char:EOLhyphen"/>per from his Friend <hi>Chaſtillon,</hi> ſoon found his Flame was in<g ref="char:EOLhyphen"/>creaſed by her Company, too high to be concealed, and the Opportunity too fair to be let ſlip; ſo reſolved to tell her his Paſſion: For now the Pleaſant<g ref="char:EOLhyphen"/>neſs of her Converſation, as well as the Beauty of her Per<g ref="char:EOLhyphen"/>ſon, charmed him ſo, that he was no longer Maſter of him<g ref="char:EOLhyphen"/>ſelf.</p>
+            <pb n="52" facs="tcp:137650:30"/>
+            <p>When ſhe ſaw them, who went before, go out of the great Walk, ſhe began to complain, that going by them<g ref="char:EOLhyphen"/>ſelves, they ſhould loſe the Company, which to her was all the Pleaſure of the Place.</p>
+            <p>
+               <hi>Madam,</hi> (reply'd the Count) <hi>You perchance have reaſon to complain; but for my ſelf, I am too nigh Heaven, to think of any other Happineſs. Par<g ref="char:EOLhyphen"/>don me, Madam, that I dare tell you, That I Love you, ſince it is in vain to hide that Flame, which in few Days would by my Death have been reveal'd, had I ſtill ſmoother'd it in a Painful Silence.</hi>
+            </p>
+            <pb n="53" facs="tcp:137650:30"/>
+            <p>She knew not what to an<g ref="char:EOLhyphen"/>ſwer him, for ſhe conſidered, how dangerous it was to enter into ſo ſudden an Engagement with a Man ſhe knew ſo little; and, on the other ſide, ſhe was afraid, that if ſhe ſhould re<g ref="char:EOLhyphen"/>pulſe him rudely, ſhe ſhould loſe a Lover. For as Nature had given her ſo large a Portion of Beauty, ſhe had given her no leſs a Share of Vanity; that ſhe was even to that degree Coquette, as to be pleaſed with the rude Commendati<g ref="char:EOLhyphen"/>ons of Foot-men, as ſhe paſſed out and in. So ſhe only re<g ref="char:EOLhyphen"/>turned him this Anſwer: <hi>Sir, I confeſs, your Diſcourſe came moſt unexpected to me; and as I
+<pb n="54" facs="tcp:137650:31"/>own my ſelf not inſenſible of a Virtuous and Noble Paſſion, I ſhould be loath to place it on One, whoſe Ingratitude ſhould force me afterwards to change it: And though you appear too Generous, to fall within the compaſs of this Suſpition; yet you muſt pardon the uſeful Cautions of One un<g ref="char:EOLhyphen"/>practiſed in the Art of Love. Therefore, I muſt return you no poſitive Anſwer, till Time ſhall inſtruct me, if I ought to hear you talk of Love.</hi>
+            </p>
+            <p>The <hi>Count,</hi> finding there was nothing, of a deſpair in what ſhe ſaid, was going to make her a Thouſand Prote<g ref="char:EOLhyphen"/>ſtations of the trueſt Love that Tongue ever utter'd, when
+<pb n="55" facs="tcp:137650:31"/>
+               <hi>Mademoiſeble D'aupre's,</hi> ſeeing them behind at a diſtance, call'd 'em to come up; and walk with them. The <hi>Count</hi> perceiving, that his happy Op<g ref="char:EOLhyphen"/>portunity was now paſt, and having no more time, but whilſt they overtook the o<g ref="char:EOLhyphen"/>thers; ſaid, <hi>May I then Hope? I bad you not deſpair</hi> (ſaid ſhe) <hi>when I told you, That Time would inſtruct me, if I ought to hear you talk of Love.</hi>
+            </p>
+            <p>He waited upon them to their Lodgings; and after<g ref="char:EOLhyphen"/>ward returned home more happy, than the greateſt Con<g ref="char:EOLhyphen"/>queror on the Night of ſome important Victory: For he abſolutely believ'd, having at
+<pb n="56" facs="tcp:137650:32"/>firſt ſo favourable a Treaty, that the Beautiful Fortreſs would not hold out long. Be<g ref="char:EOLhyphen"/>ſides, he thought, few Wo<g ref="char:EOLhyphen"/>men of ſo free and open a Na<g ref="char:EOLhyphen"/>ture, as ſhe was, had Power to with-ſtand the Aſſiduity of a violent Paſſion.</p>
+            <p>This made him from time to time purſue her, where e're ſhe went: He beheld no Day, that he paſſed not away moſt part of its douny Hours in her dear Company. In contradi<g ref="char:EOLhyphen"/>ction to his Nature, he often became Fantaſtically Childiſh to pleaſe her; and if he could but ſucceed in that, he car'd not what the World ſaid of him.</p>
+            <pb n="57" facs="tcp:137650:32"/>
+            <p>He went ſtraight, and re<g ref="char:EOLhyphen"/>ported all that had paſſed to <hi>Madame de St. Maure:</hi> He found her alone at home; for the Diſquiet ſhe was in, had made all People ſo inſupporta<g ref="char:EOLhyphen"/>ble to her, that ſhe deny'd ſee<g ref="char:EOLhyphen"/>ing every Body but himſelf. No ſooner had he told her all that had hapned in the Gar<g ref="char:EOLhyphen"/>den; but ſhe, changing her Face, according to the Dictates of her Mind, which was all Confuſion and Diſorder, ſaid to him; <hi>Tho' it be contrary to thoſe ſevere Laws, that Pow<g ref="char:EOLhyphen"/>erful Cuſtome has impoſed upon us, to tell our ſecret Paſſions, (e<g ref="char:EOLhyphen"/>ſpecially where Loves concern'd) to any of another Sex; yet I
+<pb n="58" facs="tcp:137650:33"/>dare ſo far confide in you, as to make you the only Phiſician of my troubled Thoughts, Oh!</hi> St. Laurans, <hi>within very few Weeks you knew me placed in the Firſt Degree of Happineſs. What in<g ref="char:EOLhyphen"/>terpoſing Fate,</hi> (reply'd the <hi>Count) hinders you from being ſo ſtill? Pardon</hi> (ſaid ſhe) <hi>theſe confuſed Bluſhes, which waits upon my Shame, when I tell you, That 'tis Love which robs me of my Reſt, and baniſhes from my Mind all thoughts of Quiet; and pity her; who, from the Exceſs of an unguided Paſſion, throws the bottom Secrets of her Soul before you, and owns to you, that, tho' ſhe is Married to</hi> St. Maure, <hi>ſhe Loves your Friend</hi> Chaſtillon <hi>to diſtraction; and,
+<pb n="59" facs="tcp:137650:33"/>but that I am reſolved to keep un<g ref="char:EOLhyphen"/>ſtained the laſt Point of Duty, or dye a Victim to my Paſſion, I had never let the mighty Secret fly from out my Breaſt. There<g ref="char:EOLhyphen"/>fore, make not too ſevere a Com<g ref="char:EOLhyphen"/>ment, if I have drowned the Name of</hi> Modeſty, <hi>in that of</hi> Friend, <hi>in telling you with ſo little ſcruple of my Love. If you ſhould, it would be unkind, ſince it only ſhews a Confidence I have in you, above the reſt of the World; and few there are com<g ref="char:EOLhyphen"/>plain of Truſt. Madame</hi> (an<g ref="char:EOLhyphen"/>ſwer'd the <hi>Count) have you con<g ref="char:EOLhyphen"/>ſidered? Yes, till I am mad</hi> (ſaid ſhe); <hi>for, Alas! I ſee my Duty placed above Me; and as I climb and climb to reach it, Love plucks me back again.</hi>
+            </p>
+            <pb n="60" facs="tcp:137650:34"/>
+            <p>Still, as ſhe ſpoke, her words were interrupted by her Tears, and her Breaſt torn betwixt the different thoughts of <hi>Love</hi> and <hi>Duty.</hi>
+            </p>
+            <p>The <hi>Count,</hi> who perceived the Inconveniencies, that muſt arrive to them both from ſuch an Amour, apply'd all his Power to break it; not by ad<g ref="char:EOLhyphen"/>viſing, nor railing at her Paſſi<g ref="char:EOLhyphen"/>on; for he knew, that was only Infant Love, which could be chid away; and their's was grown ſtrong enough, to Laugh at all ſuch Remedies: Which made him think on a more violent, though a more dangerous way, and hazard
+<pb n="61" facs="tcp:137650:34"/>the Name of <hi>Friend</hi> to ſerve his Friends.</p>
+            <p>
+               <hi>Madame,</hi> (ſaid he) <hi>I believe, you thought I lov'd you well e<g ref="char:EOLhyphen"/>nough, to intereſt my ſelf in all your Concerns, when you confi<g ref="char:EOLhyphen"/>ded in me ſo weighty a Secret. Therefore, Madame, I muſt own my ſelf doubly concern'd in this; firſt, That you love at all; next, That you love a Man, who to my knowledge loves elſewhere.</hi>
+            </p>
+            <p>At which words, ſhe fell backwards in her Chair; and, withall the violence of a diſtra<g ref="char:EOLhyphen"/>cted Paſſion, cry'd out, <hi>Oh! ye cruel Stars, do you heap Moun<g ref="char:EOLhyphen"/>tains upon Mountains of Miſery, and all to over-whelm one weak
+<pb n="62" facs="tcp:137650:35"/>Woman? Am I then deceiv'd too?</hi>
+            </p>
+            <p>Then ſhe told the <hi>Count,</hi> That ſhe ſaw plainly by the Collours <hi>Chaſtillon</hi> wore the Day of the Tilting, and by o<g ref="char:EOLhyphen"/>ther Marks and Signes, that he was in Love with ſome Wo<g ref="char:EOLhyphen"/>man, to whom he durſt not declare it; and that ſhe had been vain enough to think it was her ſelf.</p>
+            <p>
+               <hi>Madame,</hi> (reply'd the <hi>Count</hi>) <hi>be aſſur'd, his Addreſſes proceed from his belief, that you love him; and therefore, they are ra<g ref="char:EOLhyphen"/>ther Effects of his Vanity than Paſſion.</hi>
+            </p>
+            <pb n="63" facs="tcp:137650:35"/>
+            <p>After this the <hi>Count</hi> took his Leave, and went to find <hi>Cha<g ref="char:EOLhyphen"/>ſtillon,</hi> in order to the carry<g ref="char:EOLhyphen"/>ing on of his Deſigne, leaving her in a more deplorable Con<g ref="char:EOLhyphen"/>dition, than he found her.</p>
+            <p>He found him alone, pen<g ref="char:EOLhyphen"/>ſive upon a Couch in his Clo<g ref="char:EOLhyphen"/>ſet, meditating upon the Ex<g ref="char:EOLhyphen"/>cellencies of <hi>Madame de St. Maure.</hi> The <hi>Count</hi> ſitting him<g ref="char:EOLhyphen"/>ſelf down by him, began to tell him, That he was ſorry to bring him ſuch unpleaſing News, which he knew would ſo much diſturb him; but be<g ref="char:EOLhyphen"/>ing his Friend, he could not but tell him, That he was juſt then come from <hi>Madame de St.
+<pb n="64" facs="tcp:137650:36"/>Maure;</hi> and that he had try'd her always, to ſee if ſhe had a<g ref="char:EOLhyphen"/>ny Inclination for him: But he found all to the contrary.</p>
+            <p>To which <hi>Chaſtillon</hi> anſwer<g ref="char:EOLhyphen"/>ed, That no Man could be ſur<g ref="char:EOLhyphen"/>prized at an expected Stroke; but that, that ſhould not at all divert him from the Reſoluti<g ref="char:EOLhyphen"/>on he had taken, of revealing his Paſſion to her.</p>
+            <p>They ſate together, till it was Court-time; and then went thither, where they found <hi>Madame de St. Maure. Chaſtil<g ref="char:EOLhyphen"/>lon,</hi> failed not watching his Opportunity; and Fortune was quickly ſo kind, as to give him One. For <hi>Madame de St.
+<pb n="65" facs="tcp:137650:36"/>Maure,</hi> leaving the Circle, went into the Balcony, pre<g ref="char:EOLhyphen"/>tending to cool her ſelf; for the vaſt Company, which was at Court that Night, made the Heat almoſt inſupportable. But the real Reaſon was, That the ſight of <hi>Chaſtillon</hi> had put her into ſuch a Confuſion, con<g ref="char:EOLhyphen"/>cerning what the <hi>Count</hi> had told her, that ſhe was afraid, leſt ſome Body ſhould perceive it. <hi>Chaſtillon</hi> ſoon followed her, to ſee if this would prove a fa<g ref="char:EOLhyphen"/>vourable Minute to his Inten<g ref="char:EOLhyphen"/>tions; for his Love was now grown too impati<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nt, to in<g ref="char:EOLhyphen"/>dure delay in any thing, that he thought might advance it. He found her alone, looking over the Balcony; but hear<g ref="char:EOLhyphen"/>ing
+<pb n="66" facs="tcp:137650:37"/>ſome Body behind her, ſhe turn'd about, and ſeeing who it was, her Diſorder increaſed ſo much at the ſight of him, that, had not the Darkneſs of the Night covered her, he had ſoon perceived her Frailty in her Face, inſpight of all her Power to hide it. She was con<g ref="char:EOLhyphen"/>founded, even beyond the Power of Wit to recover; for, leſt he ſhould ſuſpect ſome<g ref="char:EOLhyphen"/>thing extraordinary from her not ſpeaking at all, or in the diſordered manner, if ſhe did, ſhe catched at the fooliſh Oc<g ref="char:EOLhyphen"/>caſion of a Light ſhe ſaw in a diſtant Street, (which was on<g ref="char:EOLhyphen"/>ly Straw, that playing Chil<g ref="char:EOLhyphen"/>dren ſet on Flame) to pretend to be afrightned, apprehend<g ref="char:EOLhyphen"/>ing
+<pb n="67" facs="tcp:137650:37"/>'twas a Houſe on Fire: But he, (after he had told her, what he thought it was, and that if it had been what ſhe imagin'd, there would have been more noiſe in the Streets) ſaid to her; <hi>Ah, Madame, ſince you are ſo much concerned in the Apprehenſion of a Fire, in which you have no particular Intreſt, but only becauſe the poor afflicted Sufferers move your gentle Na<g ref="char:EOLhyphen"/>ture; I hope, your Pity will ex<g ref="char:EOLhyphen"/>tend to me, who bears about me a real Flame, of which your Beau<g ref="char:EOLhyphen"/>ty is the only Cauſe.</hi>
+            </p>
+            <p>She returned him no An<g ref="char:EOLhyphen"/>ſwer; but turning ſhort about, paſſed through the Croud down to her Coach; and ſo
+<pb n="68" facs="tcp:137650:38"/>went Home, in a ſtrange Per<g ref="char:EOLhyphen"/>plexity.</p>
+            <p>She left <hi>Chaſtillon</hi> in a deep Deſpair: He knew not which way next to move; for he con<g ref="char:EOLhyphen"/>cluded by her Carriage, that he had abſolutely caſt himſelf, without the utmoſt Verge of Hope. And now he believed, he ſhould never ſee her more, but with Frowns upon her Face, which would be to him as ſo many Darts of Death: But ſtill he reſolv'd not to de<g ref="char:EOLhyphen"/>ſiſt, till he had her Anſwer.</p>
+            <p>The <hi>Count,</hi> who all this while lived in a doubtful Hap<g ref="char:EOLhyphen"/>pineſs, being ſhe he loved had ſo little certainty in her Hu<g ref="char:EOLhyphen"/>mour;
+<pb n="69" facs="tcp:137650:38"/>for though by all Marks, and Appearances, he had the firſt place in her Affe<g ref="char:EOLhyphen"/>ctions; yet ſtill ſhe was ſo Prodigal of leſſer Favours to others, that he knew not whi<g ref="char:EOLhyphen"/>ther his Felicity was ſure or no: And Love is of ſo ambiti<g ref="char:EOLhyphen"/>ons a nature, that it is never ſa<g ref="char:EOLhyphen"/>tisfy'd with poſſeſſing the greateſt Part, if it ſees any Un<g ref="char:EOLhyphen"/>conquer'd behind.</p>
+            <p>
+               <hi>Chaſtillon,</hi> who was think<g ref="char:EOLhyphen"/>ing what way to take next, thought of going to viſit Ma<g ref="char:EOLhyphen"/>dam <hi>de St. Maure's</hi> Gentlewo<g ref="char:EOLhyphen"/>man, (with whom by his fre<g ref="char:EOLhyphen"/>quent Viſits to her Lady, he became particularly well ac<g ref="char:EOLhyphen"/>quainted) and ſee if he could
+<pb n="70" facs="tcp:137650:39"/>find any thing from her, that could direct him which way to take. After much diſcourſe, ſhe confeſs'd, that of late, ſhe found her Lady much diſturb<g ref="char:EOLhyphen"/>ed; and that often ſhe has o<g ref="char:EOLhyphen"/>ver-heard her ſigh, and name his Name. But ſhe did be<g ref="char:EOLhyphen"/>lieve her too good a Wife, to entertain a kind Opinion of any Man, but her Husband.</p>
+            <p>From this he took new Fire, and reſolv'd to try once more his Fortune, believing that his laſt Repulſe might only be an Effect of her Modeſty. Beſides, the next time he ſaw her, when he expected to meet her full of Anger, ſhe receiv'd him (ha<g ref="char:EOLhyphen"/>ving forc'd her Nature to obey)
+<pb n="71" facs="tcp:137650:39"/>juſt as ſhe us'd to do; think<g ref="char:EOLhyphen"/>ing by that to make him be<g ref="char:EOLhyphen"/>lieve, ſhe did not hear what he ſaid to her in the Balcony. But he conſtru'd this a quite different way from what ſhe in<g ref="char:EOLhyphen"/>tended; for it only confirm'd what he had heard before; which he believ'd, the <hi>Count</hi> had not been quick-ſighted e<g ref="char:EOLhyphen"/>nough, to diſcern.</p>
+            <p>He ſought now all Opportu<g ref="char:EOLhyphen"/>tunities, to tell her once more of his Love; which ſhe per<g ref="char:EOLhyphen"/>ceiving, cunningly cluded: He ſeeing of it, and alſo the ſtrange indiff'rence with which ſhe ſpoke to him upon all Oc<g ref="char:EOLhyphen"/>caſions, (ſcarce ever ſeen in thoſe who love, for ſhe never
+<pb n="72" facs="tcp:137650:40"/>treated him above common Ci<g ref="char:EOLhyphen"/>vility) made him begin to ſuſ<g ref="char:EOLhyphen"/>pect, that he might be in a Miſtake: But yet, however, he reſolv'd to ſpeak to her once more: And with much Pain and Diligence, having found her alone at Home; <hi>Ah, Ma<g ref="char:EOLhyphen"/>dam!</hi> (ſaid he) <hi>Will you per<g ref="char:EOLhyphen"/>mit me to die, and not caſt one Favourable Look upon my Miſe<g ref="char:EOLhyphen"/>ry, which only proceeds from an Exceſs of Love for you?</hi>
+            </p>
+            <p>
+               <hi>Sir,</hi> (reply'd ſhe, interrup<g ref="char:EOLhyphen"/>ting him) <hi>I little thought to have heard this ſort of Diſcourſe from you; the only hearing where<g ref="char:EOLhyphen"/>of is ſo much contrary to Duty in me. But ſince I believe, your Errour only proceeds from a Cu<g ref="char:EOLhyphen"/>ſtom,
+<pb n="73" facs="tcp:137650:40"/>that you Young Men have got amongſt pou, of paying a Gal<g ref="char:EOLhyphen"/>lantry to ſome particular Wo<g ref="char:EOLhyphen"/>man. I will pardon you this first Rudeneſs; but ſwear, that if ever you uſe again the like Diſ<g ref="char:EOLhyphen"/>courſe, never to ſpeak to you more. Believe me what I ſay; for the Texts of Holy Writ are not more true.</hi>
+            </p>
+            <p>All which ſhe ſpoke with ſuch a Calmneſs, that <hi>Chaſtil<g ref="char:EOLhyphen"/>lon</hi> was now confirm'd of his Miſtake; and ſhe, to prevent what might follow, ſent imme<g ref="char:EOLhyphen"/>diately for her Coach to go a<g ref="char:EOLhyphen"/>broad, keeping ſtill ſome of her Servants in the Room, till it was made ready.</p>
+            <pb n="74" facs="tcp:137650:41"/>
+            <p>Now, none but thoſe, who know the Force of Love, can judge with how much Torment ſhe perform'd this <hi>mighty work;</hi> which we may well call ſo, ſince few beſides her ſelf could be able to have done it: And cer<g ref="char:EOLhyphen"/>tainly, had ſhe kept her Word, (conſidering the Violence of her Love) her Character might have been writ in the chief Re<g ref="char:EOLhyphen"/>cords of Vertue.</p>
+            <p>
+               <hi>Chaſtillon</hi> now began to con<g ref="char:EOLhyphen"/>ſider himſelf, as in a moſt de<g ref="char:EOLhyphen"/>ſperate Diſeaſe; which made him think of as deſperate Cure, and what would in a little time either bring him Death, or certain Health. Which was, That he would make his Ad<g ref="char:EOLhyphen"/>dreſſes
+<pb n="75" facs="tcp:137650:41"/>to ſome other Woman; and that if <hi>Madame de St. Maure</hi> had but the leaſt Spark of Love for him, this wou'd blow it up into a violent Flame: And none he thought ſo fit for this, as <hi>Mademoiſelle de Poictiers.</hi>
+            </p>
+            <p>The Count having been ſo ſevere with <hi>Chaſtillon</hi> about his Love, was aſham'd to tell him of his own: Which made him (by Errour) run into a Breach of Friendſhip. He choſe her to make his Falſe Courtſhip to, firſt, becauſe ſhe was Beauti<g ref="char:EOLhyphen"/>ful, and for that reaſon every Body wou'd be the apter to believe his pretended Flame to be true; next, becauſe he found
+<pb n="76" facs="tcp:137650:42"/>her Coquette enough, to re<g ref="char:EOLhyphen"/>ceive his Court: And withal, ſhe having ſo many Admirers, he might ſlip himſelf out of the Crowd when he would, and no body take notice of it.</p>
+            <p>He loſt no time, but went immediately into the Circle, where ſhe was; and having ſingled her out, he approach'd her with the higheſt Flights of Gallantry; but never wou'd declare a formal Paſſion, leſt his Honour might ſuffer, when he ſhou'd retreat. He took all occaſions to be always in her Company; he follow'd her, and ſought her from place to place: And ſhe her ſelf was ſo vain, that ſhe never fail'd ma<g ref="char:EOLhyphen"/>king
+<pb n="77" facs="tcp:137650:42"/>his Addreſſes publick by all poſſible means.</p>
+            <p>This came quickly to the Ears of the Count, and <hi>Ma<g ref="char:EOLhyphen"/>dame de St. Maure:</hi> As for him, whom <hi>Mademoiſelle de Poicti<g ref="char:EOLhyphen"/>ers</hi> had beheld with a quite dif<g ref="char:EOLhyphen"/>ferent Mine, ſince the Ap<g ref="char:EOLhyphen"/>proaches of <hi>Chaſtillon,</hi> (for, as was ſaid before, ſhe lik'd <hi>Chaſtil<g ref="char:EOLhyphen"/>lon</hi> better than any body) he re<g ref="char:EOLhyphen"/>ſolv'd not to make a Breach of Friendſhip for ſo light a Mi<g ref="char:EOLhyphen"/>ſtreſs, till he had try'd all the Remedies that Reaſon ſhould inſtruct him, to cure his Love.</p>
+            <p>
+               <hi>Madame de St. Maure</hi> con<g ref="char:EOLhyphen"/>ceiv'd now, that all was true, which the Count had told her;
+<pb n="78" facs="tcp:137650:43"/>and ſo look'd upon her ſelf, as the moſt Miſerable of Women: For now the Shock appear'd too great to be withſtood; and ſhe fear'd the Violence of her Mind wou'd not only expoſe her to her Husband, but to all the World beſides. She had a Thouſand different Thoughts, which way to take; and, at length, ſhe concluded, that if the Count (her Husband) came to perceive any thing of it, ſhe wou'd freely confeſs it all to him; and, as the laſt Proof of her Duty, offer him to leave the Court, and retire with him, and never ſee <hi>Chaſtillon</hi> more: To ſhew him, that tho' ſhe cou'd not command her Affe<g ref="char:EOLhyphen"/>ctions, yet ſhe cou'd her Acti<g ref="char:EOLhyphen"/>ons.</p>
+            <pb n="79" facs="tcp:137650:43"/>
+            <p>But Fortune was kind to her, and ſent a favourable War to her Relief: For <hi>Philip the Second,</hi> King of <hi>Spain,</hi> having raiſed a great Army in <hi>Flan<g ref="char:EOLhyphen"/>ders,</hi> with an intent to enter <hi>France,</hi> the Count <hi>de St. Maure</hi> was forc'd to retire himſelf to a Government he had in <hi>Pi<g ref="char:EOLhyphen"/>cardy,</hi> where (they ſaid) wou'd be the Seat of the War. She took the Advantage of this lucky Event, and made her Trouble paſs to the World under the falſe colour of his Departing; where ſhe might reaſonably believe, he might be in danger. Beſides, ſhe took this Pretence to retire her ſelf from Court for ſome time, in
+<pb n="80" facs="tcp:137650:44"/>hopes that Abſence, like cool<g ref="char:EOLhyphen"/>ing Lenitives, might allay the raging of her Feaver.</p>
+            <p>She went to a Country-houſe ſhe had, about two Leagues diſtant from <hi>Paris,</hi> upon the ſame Hill of St. <hi>Cloud,</hi> and a<g ref="char:EOLhyphen"/>bout a League from it: It was Maſter of all the Proſpect of that lovely Plain, where the Silver Scene ſo often ſpreads its wanton Arms in pleaſing <hi>Meanders,</hi> to embrace the Earth. In the Middle of which is placed the Renown'd City of <hi>Paris.</hi> At the Foot of the Hill, on which the Houſe was ſeated, the River glided gent<g ref="char:EOLhyphen"/>ly by, and the Deſcent from the Houſe to it, was only ſpa<g ref="char:EOLhyphen"/>cious,
+<pb n="81" facs="tcp:137650:44"/>and beautiful Gardens. Thither ſhe went, and ſtaid ſome time; and found her Mind grew much more eaſie upon the Account of <hi>Chaſtillon:</hi> But, Alas! the Fire was only ſmothered, and not quenched.</p>
+            <p>The Count <hi>St. Laurans,</hi> who began now to be convinced, that <hi>Mademoiſelle de Poctiers</hi> had never had the leaſt ſpark of Affection for him; but that her Beauty, like an <hi>Ignis Fa<g ref="char:EOLhyphen"/>tuus,</hi> had led him upon the ve<g ref="char:EOLhyphen"/>ry Brink of Ruine; now re<g ref="char:EOLhyphen"/>ſolv'd wiſely to ſhut his Eyes, and be no more ſeduc'd by that fair, deceitful Leader: But, like a wounded Tyger, he ſet a Reſolution firſt to ſummon
+<pb n="82" facs="tcp:137650:45"/>up all his Force, and ſpend his dying Fury on thoſe, from whom he receiv'd the Wound. Therefore he went ſtraight to her, with an intent to vent the over-flowing of his Breaſt to her; and after that, to deter<g ref="char:EOLhyphen"/>mine Love, or Life.</p>
+            <p>But as ſoon as he ſaw her, Love grew Triumphant, and his Anger melted away, like Wax before the Fire, that he had only Power to ſay; <hi>Ah, Madame! Sure 'twas ſome an<g ref="char:EOLhyphen"/>gry Power, that plac'd your Beau<g ref="char:EOLhyphen"/>ty on the Earth; ſo infinitely Fair, and yet ſo Cruel, never was Woman ſeen before!</hi>
+            </p>
+            <p>
+               <hi>You have no reaſon to accuſe
+<pb n="83" facs="tcp:137650:45"/>me of Cruelty,</hi> (ſaid ſhe) <hi>but you Men never fail laying the Fault on us, when you have a mind to break off Loving.</hi>
+            </p>
+            <p>
+               <hi>By all that's Good,</hi> (reply'd the Count) <hi>I love you ſtill ſo well, that the least kind Word you give particularly to me, comes more welcome, than a Reprieve to him that only waits the Stroke of Death. But, Madam, now you ſhed your Favours upon O<g ref="char:EOLhyphen"/>thers, while I lie cover'd with Deſpair.</hi>
+            </p>
+            <p>
+               <hi>When Love</hi> (ſaid ſhe) <hi>becomes a Burden, throw it down; I conſent; for I know, 'tis that you wou'd be at: Elſe, why ſhou'd you ſuſpect me?</hi>
+            </p>
+            <pb n="84" facs="tcp:137650:46"/>
+            <p>
+               <hi>'Tis beyond Suſpicion, that 'tis Day, when we ſee the Sun,</hi> (reply<g ref="char:EOLhyphen"/>ed the <hi>Count</hi>) <hi>and your receiving</hi> Chaſtillon<hi>'s Love, is as Pub<g ref="char:EOLhyphen"/>lick.</hi>
+            </p>
+            <p>
+               <hi>No Woman</hi> (anſwers ſhe) <hi>lives without malicious Reports; and if you are ſo apt to believe them now, I ſhall have a happy time with you, if I Marry you. 'Tis true, I allow'd your Love; but in that I did not tell you, That I wou'd become your Slave. And this I tell you ſtill; If you like me, I will permit you to Love on; but never pretend to govern my Actions.</hi>
+            </p>
+            <p>And, without hearing him
+<pb n="85" facs="tcp:137650:46"/>reply, away ſhe went; tho' he preſs'd her very hard, that ſhe wou'd but ſtay, and hear him ſpeak.</p>
+            <p>He knew not now what to conclude on; he found his Love was too great a Maſter on him, to be caſt off; for it rather increaſed, than diminiſh<g ref="char:EOLhyphen"/>ed: And now there was no way left, but to leave it to Time.</p>
+            <p>He went to viſit <hi>Madame de St. Maure,</hi> who he heard was come to <hi>Paris,</hi> to pay her Du<g ref="char:EOLhyphen"/>ty at the Court; and was to return back again the next day in the Morning. She invited the Count to go and dine with
+<pb n="86" facs="tcp:137650:47"/>her; for there wou'd be none of the Court left in Town: For the King had invited the Queen, and the reſt of the Court, to go, and hunt down a Stag, that was grown Famous for his Age; and afterwards, to dine at <hi>Madrid,</hi> a Houſe of the King's, about a League and half diſtant from <hi>Paris;</hi> which his Father, <hi>Francis the First,</hi> had built, to evade (by Equi<g ref="char:EOLhyphen"/>vocation) an Oath, that Ne<g ref="char:EOLhyphen"/>ceſſity had oblig'd him to take. For <hi>Charles the Fifth,</hi> Emperour, and King of <hi>Spain,</hi> having ta<g ref="char:EOLhyphen"/>ken him Priſoner, ſet him at Liberty, with this Condition, (beſides ſome Ranſome he paid) That he ſhould viſit <hi>Ma<g ref="char:EOLhyphen"/>drid</hi> (which is the Chief Town
+<pb n="87" facs="tcp:137650:47"/>in <hi>Spain</hi>) once every Year. But when he was return'd into his own Country again, he had this Houſe built, and call'd it <hi>Madrid;</hi> and never fail'd go<g ref="char:EOLhyphen"/>ing to it once a Year; fancy<g ref="char:EOLhyphen"/>ing by this, that he ſatisfy'd the Duty of his Oath.</p>
+            <p>As the Count <hi>St. Laurans,</hi> and <hi>Madame de St. Maure</hi> were paſ<g ref="char:EOLhyphen"/>ſing thro' the
+<note n="*" place="margin">A Wood, that is called ſo.</note> 
+               <hi>Bois de Bologne,</hi> they perceiv'd at a diſtance a Man, and a Wo<g ref="char:EOLhyphen"/>man, walking together in a fine Path all alone, leading their Horſes in their Hands. They ſaw by their Dreſſes, that they were People of Quality; and he appear'd by the Poſture of
+<pb n="88" facs="tcp:137650:48"/>his Body, to be ſaying to her ſomething above common Diſ<g ref="char:EOLhyphen"/>courſe: But when, drawing nearer, they perceiv'd it was <hi>Chaſtillon,</hi> and <hi>Mademoiſelle de Poictiers,</hi> it pierc'd them like Daggers to their Hearts.</p>
+            <p>The King, and all the Court were rode on before, in purſuit of the Stagg, which had led them a moſt toilſome Chace; inſomuch that thoſe Ladies, who not being us'd to Hunt, cou'd not indure the Fatigue of the Day, were forc'd to ſtay, till the Coaches that were be<g ref="char:EOLhyphen"/>hind came up: Amongſt which was <hi>Mademoiſelle de Poictiers,</hi> who was ſo weary ſhe cou'd ſit no longer on Horſeback;
+<pb n="89" facs="tcp:137650:48"/>and <hi>Chaſtillon,</hi> to carry on his Deſign, fail'd not to ſtay be<g ref="char:EOLhyphen"/>hind to wait upon her.</p>
+            <p>As ſoon as the Count, and <hi>Madame de St. Maure</hi> over<g ref="char:EOLhyphen"/>took them, <hi>Mademoiſelle de Poictiers</hi> thought to have ex<g ref="char:EOLhyphen"/>cus'd her being found ſo a<g ref="char:EOLhyphen"/>lone with <hi>Chaſtillon,</hi> by telling the Reaſon of it; which the o<g ref="char:EOLhyphen"/>thers took only for an Excuſe. As for <hi>Madame de St. Maure,</hi> ſhe kept her Countenance firm: But for the Count, (who had not the power to hide the leaſt thing, that troubled him; but it appear'd as lively in his Face, as if he told it) he look'd with all the Marks of Anger and De<g ref="char:EOLhyphen"/>ſpair; and immediately the
+<pb n="90" facs="tcp:137650:49"/>Coaches coming up, <hi>Mademoi<g ref="char:EOLhyphen"/>ſelle de Poictiers</hi> got in, and <hi>Chaſtillon</hi> upon his Horſe; ſo, taking their Leaves, follow'd the Court.</p>
+            <p>The Count <hi>de St. Laurans,</hi> and <hi>Madame de St. Maure,</hi> kept on their way; but with ſo ſtrange an increaſe of Torment, that it even border'd upon Di<g ref="char:EOLhyphen"/>ſtraction.</p>
+            <p>
+               <hi>Chaſtillon</hi> now began to ſuſ<g ref="char:EOLhyphen"/>pect, that he was ſtill in the wrong; and that the Courſe he was taking, was but making his Condition worſe, by the E<g ref="char:EOLhyphen"/>venneſs that he perceiv'd in <hi>Ma<g ref="char:EOLhyphen"/>dame de St. Maure</hi>'s Counte<g ref="char:EOLhyphen"/>nance. Beſides, he conſider'd,
+<pb n="91" facs="tcp:137650:49"/>he had to do with a Woman, that had Pride enough to cure her Love, if ſhe had any. There<g ref="char:EOLhyphen"/>fore, now he reſolv'd to reſt all his Hopes upon one Adven<g ref="char:EOLhyphen"/>ture; and, if it fall'd, to leave the World, and breath the re<g ref="char:EOLhyphen"/>maining part of his unhappy Life in ſome unknown Re<g ref="char:EOLhyphen"/>treat.</p>
+            <p>The Expedient that pleas'd him beſt, was once more to ſeek an Opportunity to ſpeak to her; and to deſire her, to tell him, as a Woman of Ho<g ref="char:EOLhyphen"/>nour, If ſhe had the leaſt Thought for him, that cou'd tend to his Satisfaction.</p>
+            <p>He loſt no time; but that
+<pb n="92" facs="tcp:137650:50"/>very Night went to <hi>Madame de St. Maure;</hi> and having ap<g ref="char:EOLhyphen"/>pointed a Boat to meet him at the foot of the Garden, he paſs'd over the River into it, knowing her Husband was from Home, and that by this time the Count wou'd have left her, and that ſhe her ſelf wou'd perhaps be come down into the Garden; and ſo he thought to have an Opportunity to ſpeak to her. But when one conſiders the Ex<g ref="char:EOLhyphen"/>travagancy of the Underta<g ref="char:EOLhyphen"/>king, one may juſtly judge, he knew not what he thought. But however, Fortune ſo far helpt him, that it became the moſt lucky of all his Deſigns; and this laſt raſh Stroak finiſh<g ref="char:EOLhyphen"/>ed his Work: Like to that
+<pb n="93" facs="tcp:137650:50"/>excellent Painter, who when by all his Art and Pains he cou'd not bring a Picture to his wonted Perfection, by raſhly throwing of his Pencil at it, made it the rareſt Piece he e<g ref="char:EOLhyphen"/>ver wrought.</p>
+            <p>He was ſcarcely enter'd the Garden, but he heard a Voice, towards which he went; and peeping through a ſweet ſmel<g ref="char:EOLhyphen"/>ling Hedge, being ſet all round with <hi>Woodbine</hi> and <hi>Jeſſamine,</hi> ſaw the unfortunate Counteſs (ſate in an Arbour) leaning upon her Arm: There hung over her Head a Canopy of Bloſſom'd <hi>Woodbines,</hi> held up by unſeen Supports; and the Place was all ſet round with
+<pb n="94" facs="tcp:137650:51"/>
+               <hi>Orange</hi>-Trees in Flowers: and juſt by her, on a ſmall Aſcent, was plac'd a large
+<note n="*" place="margin">A Water-Work.</note> Caſcade, which not being allow'd to ſhew its Waters but juſt a<g ref="char:EOLhyphen"/>bove the Pipes, they fell gent<g ref="char:EOLhyphen"/>ly murmuring down again up<g ref="char:EOLhyphen"/>on the Stones.</p>
+            <p>He forbore approaching of her, till he had ſtood, and obſerved her, to ſee if he cou'd perceive any thing, on which he might ground his Hope, or might abſolutely confirm his Deſpair. He ſcarce had ſtood a moment, but he heard her give a Sigh, as if ſhe had yielded up her Soul; and with a torrent of Tears,
+<pb n="95" facs="tcp:137650:51"/>cry'd out: <hi>Oh, cruel Love! all Powers but Thee reward their Votaries, and ſhow'r a thou<g ref="char:EOLhyphen"/>ſand Bleſſings upon thoſe, who with moſt Zeal obey their Laws: But Thou, with cruelty beyond the</hi> Lion, <hi>or the</hi> Tygre, <hi>only for the ſake of Slaughter, de<g ref="char:EOLhyphen"/>ſtroyest even thoſe who beſt do ſerve Thee. With blind Devo<g ref="char:EOLhyphen"/>tion at thy Altars I have dai<g ref="char:EOLhyphen"/>ly offer'd up a thouſand Sighs, a thouſand Tears, a thouſand ten<g ref="char:EOLhyphen"/>der Thoughts, to pleaſe Thee: and in return, go ſeek through thy unhappy Empire, and tell me, if there be one ſo Wretch<g ref="char:EOLhyphen"/>ed as my ſelf. Oh,</hi> Chaſtillon! <hi>Little doeſt thou think the Pains I bear: But, Alas! how canſt thou, when thou doeſt not know
+<pb n="96" facs="tcp:137650:52"/>I love thee, nor never ſhalt; or if thou did'ſt, what would it a<g ref="char:EOLhyphen"/>vail, when thou art near thy dear</hi> de Poictiers?</p>
+            <p>
+               <hi>Chaſtillon</hi> was too much fir'd with what he had heard, to remain unobſerv'd any longer: But with all the Eagerneſs of a Man, that was drawn from the loweſt Ebb of Deſpair, to the Top of all his Hopes, threw himſelf at her Feet. <hi>Ah, Ma<g ref="char:EOLhyphen"/>dame!</hi> (ſaid he) <hi>be milder in your Opinion of one, that more than dies for love of you: And don't believe, that he can doat on Traſh, when there is ſo much Excellence as your ſelf, for to at<g ref="char:EOLhyphen"/>tract his Love.</hi>
+            </p>
+            <pb n="79" facs="tcp:137650:52"/>
+            <p>She ſtarted up, and with a Face full of Confuſion, and as much of Anger, as Love wou'd give her leave, reply<g ref="char:EOLhyphen"/>ed:</p>
+            <p>
+               <hi>Though you have, by a baſe Intruſion, heard me confeſs I Love; yet you ſhall have no o<g ref="char:EOLhyphen"/>ther Advantage from it, but that it ſhall prove my Cure; for from this time, I will never ſpeak to you more.</hi>
+            </p>
+            <p>
+               <hi>Chaſtillon,</hi> who only deſired her to hear him, kneel'd down in the moſt ſubmiſſive manner that cou'd be: To which (in<g ref="char:EOLhyphen"/>ſenſibly over-come) ſhe con<g ref="char:EOLhyphen"/>ſented; which was the firſt Ground her Love got upon
+<pb n="98" facs="tcp:137650:53"/>her Honour; and in thoſe Fights he ſeldom gets the leaſt Advantage, but he quickly beats the Other quite out of the Field.</p>
+            <p>
+               <hi>Madame,</hi> (ſaid he) <hi>that I have loved you ever ſince I ſaw you, Heaven, and St.</hi> Laurans <hi>can bear me witneſs; and with a Flame ſo tender of your Ho<g ref="char:EOLhyphen"/>nour, that I ne'r told it to any but him, in whom I knew I might confide; and, not inten<g ref="char:EOLhyphen"/>ding to have reveal'd it even to your ſelf, I kept the ſwelling Paſſion labouring in my Boſome, till it quite deſtroy'd my Rea<g ref="char:EOLhyphen"/>ſon: Then having lost that chief Director of my Actions, I pre<g ref="char:EOLhyphen"/>ſum'd to tell you of my Love,
+<pb n="99" facs="tcp:137650:53"/>when cruelly you turn'd away, denying (as I thought) my Words the least Acceſſion to your Soul, as if they came to violate that Beauteous Shrine. Then again to your Ears I offer'd my <g ref="char:V">Ʋ</g>n<g ref="char:EOLhyphen"/>happy Love, when you doom'd me to name it no more, or for ever loſe the Bleſſing of your Converſation.</hi>
+            </p>
+            <p>
+               <hi>Then (diſtracted in my Thoughts) I went, and fain'd a Paſſion for</hi> Mademoiſelle de Poictiers; <hi>which I thought, if you had the leaſt tender Remem<g ref="char:EOLhyphen"/>brance of me, wou'd kindle it into Love: But when I ſaw, that all this was no Advantage to my Flame, by the Indifference that I read in your Looks the o<g ref="char:EOLhyphen"/>ther day; I then, thrown down
+<pb n="100" facs="tcp:137650:54"/>from all that I cou'd call Hap<g ref="char:EOLhyphen"/>pineſs, reſolv'd (like a loſing Gameſter, juſt upon his Ruine) to ſet all my Stock of Hope up<g ref="char:EOLhyphen"/>on this last Caſt; which, if I loſe, I ſwear by that unmeaſur'd Love I bear you, never to con<g ref="char:EOLhyphen"/>verſe with Mankind more; but retire my ſelf from that tedious Creature, and die alone.</hi>
+            </p>
+            <p>As ſoon as he had ſpoke, ſhe threw her ſelf back in her Chair; where ſhe lay for a little while, without ſpeak<g ref="char:EOLhyphen"/>ing: At length, ſhe cry'd out:</p>
+            <p>
+               <hi>Oh Honour! Oh Love! How do ye divide my Soul!</hi>
+            </p>
+            <pb n="101" facs="tcp:137650:54"/>
+            <p>There ſhe lay for ſome time weeping, and ſighing; by which ſhe ſhew'd the Combate of her Mind.</p>
+            <p>Then afterward getting up, with a Voice more calm, ſhe ſaid:</p>
+            <p>
+               <hi>Be witneſs, this Flood of Tears, how ſtrongly my Honour argues in the Right of Duty: But Love does plead ſo power<g ref="char:EOLhyphen"/>fully for Thee,</hi> Chaſtillon, <hi>that I muſt own it to Thee; which thou ſhould'ſt ne'r have known, hadſt thou not thus preſs'd into my ſecret Thoughts.</hi>
+            </p>
+            <p>He leapt up; and kiſſing her Hand, reply'd:</p>
+            <pb n="102" facs="tcp:137650:55"/>
+            <p>
+               <hi>Thoſe who are Mighty in Poſſeſſions, and are Maſters of all their Wiſhes, are poor in Happineſs, compared to me. When I hear you ſay,</hi> You Love, <hi>I am ſo Tranſported, methinks I have already left my Natural Duſt behind me, and am in Hea<g ref="char:EOLhyphen"/>ven.</hi>
+            </p>
+            <p>She ſeeing him in ſuch an Extaſie of Joy, ſaid:</p>
+            <p>
+               <hi>Moderate your ſelf,</hi> Chaſtil<g ref="char:EOLhyphen"/>lon, <hi>and keep your Paſſion with<g ref="char:EOLhyphen"/>in the Rules of Vertue, and I will ſtill permit it; for know, that I am Married; and I will rather die, than intrench one ſtep farther on my Duty.</hi>
+            </p>
+            <pb n="103" facs="tcp:137650:55"/>
+            <p>
+               <hi>Ah, Madame!</hi> (ſaid he) <hi>pardon the Extravagance of my Love; which as yet having known no Dwelling, but the dark Re<g ref="char:EOLhyphen"/>ceſſes of Deſpair, at the Ap<g ref="char:EOLhyphen"/>proach of Glorious Happineſs, is dazled, and knows not what it does. But, Madame, fear not; for I will be more careful of your Honour, than I am of my own Life.</hi>
+            </p>
+            <p>Then after a thouſand Marks of Love, and Joy, ſhe ſaid to him:</p>
+            <p>
+               <hi>St.</hi> Laurans, <hi>who knew of both our Loves, (for I alſo told him mine) diſcreetly, as I ſuppoſe, to break off what he perceiv'd mov'd ſo faſt to both our Diſ<g ref="char:EOLhyphen"/>advantages, was unfaithful in
+<pb n="104" facs="tcp:137650:56"/>this, though otherwiſe the beſt of Friends: For he told me, You to his Knowledge loved another.</hi>
+            </p>
+            <p>
+               <hi>Oh Heavens!</hi> (ſaid he) <hi>and he told me, That you to his cer<g ref="char:EOLhyphen"/>tain knowledge Loved not me.</hi>
+            </p>
+            <p>The Counteſs reply'd: <hi>He thought by a little Pain to have cured us both: But, Alas! he finds, by ſad Experience, that Jealouſie won't cure Love; for he parted juſt now from hence the most unhappy of Men: For ſeeing you to day alone with</hi> Mademoiſelle de Poicti<g ref="char:EOLhyphen"/>ers, —</p>
+            <pb n="105" facs="tcp:137650:56"/>
+            <p>
+               <hi>Does he then admire her,</hi> ſaid he?</p>
+            <p>
+               <hi>Yes</hi> (reply'd the Counteſs); <hi>but he told me, He durſt not tell his Love to you; for he was too much aſham'd.</hi>
+            </p>
+            <p>
+               <hi>I wonder'd</hi> (ſaid he) <hi>what made him ſo kind, to be ſo of<g ref="char:EOLhyphen"/>ten at his Siſters? But now I find the Reaſon.</hi>
+            </p>
+            <p>
+               <hi>Dear</hi> Chaſtillon, (ſaid ſhe, interrupting him) <hi>though it be pain in me to deſire it, yet I muſt beg of you to leave me, and let not our Indiſcretion make us again <g ref="char:V">Ʋ</g>nhappy.</hi>
+            </p>
+            <pb n="106" facs="tcp:137650:57"/>
+            <p>
+               <hi>Madame,</hi> (ſaid he) <hi>I obey you, and return ſo bleſs'd above my Expectation, that as yet it ſeems but a Viſion to me. Let me wait upon you to morrow, to confirm me it is true.</hi>
+            </p>
+            <p>
+               <hi>You may come, and dine with me,</hi> (ſaid ſhe) <hi>and bring St.</hi> Laurans <hi>with you; and I will contrive to have</hi> Mademoiſelle de Poictiers.</p>
+            <p>
+               <hi>Then, Madame,</hi> (ſaid he) <hi>I will freely own to her, that all my Paſſion was but feign'd; and ſo we will leave St.</hi> Laurans, <hi>and Her, to agree it together.</hi>
+            </p>
+            <pb n="107" facs="tcp:137650:57"/>
+            <p>Then after many Expreſſi<g ref="char:EOLhyphen"/>ons of Love, much fuller of diſtracted Paſſion, than of Senſe, they parted: She went into her Chamber, where we will leave her, though not without many Conflicts in her Mind; unſatisfy'd with what ſhe had done, and yet pleas'd that ſhe had done it.</p>
+            <p>He return'd back to <hi>Paris;</hi> and the firſt thing he did, he went to find out St. <hi>Laurans,</hi> who received him with an unwonted Coldneſs: He knew well enough the Reaſon; however he preſs'd him to tell him, what it was that ſate ſo heavy upon his Mind, and ſeem<g ref="char:EOLhyphen"/>ed to direct at him?</p>
+            <pb n="108" facs="tcp:137650:58"/>
+            <p>The Count anſwer'd him: <hi>You will not wonder at it, when I ſhall tell you, That I am not only ſo unhappy, as to be faln into the Snares of Love; but that you (my Friend) are, fince you chang'd your Love, become my Rival.</hi>
+            </p>
+            <p>
+               <hi>Chaſtillon</hi> ſmil'd, and ſaid to him: <hi>Think but how much it is below the free and noble Nature of a Man, to be ſubject to the Weakneſs of a Woman; and then caſt her from thee.</hi>
+            </p>
+            <p>The <hi>Count,</hi> remembering this was the Advice that he had gi<g ref="char:EOLhyphen"/>ven him before, ſaid: <hi>'Tis true, I knew not Love, when I gave thee this Advice.</hi>
+            </p>
+            <pb n="109" facs="tcp:137650:58"/>
+            <p>
+               <hi>Chaſtillon</hi> wou'd not keep him any longer in ſuſpence, but unfolded all the Myſtery to him; and withal, told him of his Succeſs with <hi>Madame de St. Maure;</hi> and accus'd him ſevere<g ref="char:EOLhyphen"/>ly of his falſe Dealing: Which he excus'd by the ſame Rea<g ref="char:EOLhyphen"/>ſons, that <hi>Madame de St. Maure</hi> had alleadg'd before; and pro<g ref="char:EOLhyphen"/>mis'd to go with him to Mor<g ref="char:EOLhyphen"/>row, to excuſe himſelf alſo to her.</p>
+            <p>So <hi>Chaſtillon</hi> left him, and went home to Bed. But the <hi>Count</hi> was not in the leaſt more ſatisfy'd; for the Diſturbance of his Mind did not ſo much a<g ref="char:EOLhyphen"/>riſe from <hi>Chaſtillon</hi>'s Loving her, as the belief he had, that
+<pb n="110" facs="tcp:137650:59"/>ſhe Lov'd him; which was not at all remov'd by what had been told him. But his Love being ſo far from cur'd, that it ſtill in<g ref="char:EOLhyphen"/>creas'd, he reſolv'd (in ſpight of her Unkindneſs) to try his Fate once more; believing, that <hi>Chaſtillon</hi>'s leaving of her, might turn the Current of her Love on him.</p>
+            <p>Therefore he reſolv'd to take the firſt Opportunity to renew his Addreſſes to her; which he unexpectedly found the next Day, (for <hi>Chaſtillon</hi> had told him nothing of her being there) while <hi>Chaſtillon,</hi> and the Coun<g ref="char:EOLhyphen"/>teſs were minding their own Affairs. <hi>Mademoiſelle de Poicti<g ref="char:EOLhyphen"/>ers,</hi> who now found how things
+<pb n="111" facs="tcp:137650:59"/>ſtood between <hi>Chaſtillon,</hi> and her, (for he had freely con<g ref="char:EOLhyphen"/>feſs'd the Cheat he had put up<g ref="char:EOLhyphen"/>on her) and finding that now there was no more hopes of him, receiv'd <hi>St. Laurans</hi>'s Love; and was intruſted with the Se<g ref="char:EOLhyphen"/>cret of the Love there was be<g ref="char:EOLhyphen"/>tween <hi>Chaſtillon,</hi> and the Coun<g ref="char:EOLhyphen"/>teſs of <hi>St. Maure.</hi>
+            </p>
+            <p>From this time, tho' ſhe was Coquette to the laſt Degree, and even Inconſtant beyond her Sex; yet for a great while, ſhe lov'd the Count <hi>St. Laurans</hi> with a violent Flame.</p>
+            <p>Thus they became each o<g ref="char:EOLhyphen"/>thers Confidents, and as kind Inſtruments to promote each o<g ref="char:EOLhyphen"/>thers
+<pb n="112" facs="tcp:137650:60"/>Love. But, Alas! there wanted ſomething yet to make this Union firm; for <hi>Made<g ref="char:EOLhyphen"/>moiſelle de Poictiers</hi> retain'd ſtill too much of her Old Hu<g ref="char:EOLhyphen"/>mour, to enter into the Bonds of perfect Love: She ſtill re<g ref="char:EOLhyphen"/>ceiv'd the Courtſhip of all thoſe who wou'd make it to her; and wou'd be pleas'd with the Admiration of all the contem<g ref="char:EOLhyphen"/>ned Fops of the Court; the pert, inſipid, talking, dancing, dreſſing Fools, who doated up<g ref="char:EOLhyphen"/>on any thing wou'd give them leave, were all welcom to her, and always about her: Which made the Count <hi>St. Laurans</hi> ſo uneaſie, that he began to think, that unleſs ſhe wou'd change her ſelf in this, it wou'd be
+<pb n="113" facs="tcp:137650:60"/>the beſt for him to try once more, if he could deſiſt from loving of her; for ſtill he thought, that Love and Hate were in his Power, when he was abſent from her. But her ſight ſoon convinc'd him of his Er<g ref="char:EOLhyphen"/>rour: Beſides, he had now greater Hopes than ever; it growing ſo inſupportable to him, to hear every where thoſe Creatures boaſting of her Fa<g ref="char:EOLhyphen"/>vours. So one time he came to her, and freely told her, how prodigal ſhe had been of her Graces; inſomuch, that it grew a great torment to him, to hear ſo many bragging of her kind Returns to their Services. At which ſhe grew into a violent Anger; and told him, <hi>That ſhe
+<pb n="114" facs="tcp:137650:61"/>had declared to him before, that tho' ſhe permitted him to Love her, yet ſhe wou'd never make him Maſter of her Actions.</hi>
+            </p>
+            <p>That Reply rais'd the <hi>Count's</hi> Anger ſo much above his Love, that he ſwore, <hi>
+                  <g ref="char:V">Ʋ</g>nleſs ſhe wou'd quit that Humour, he wou'd ne<g ref="char:EOLhyphen"/>ver ſpeak to her more:</hi> And ſhe, flinging away with a contem<g ref="char:EOLhyphen"/>ning Laugh, bad him keep his Word, if he cou'd.</p>
+            <p>This Carriage of hers had rais'd him into ſuch a Fury, that he took ſo ſtrong a Reſo<g ref="char:EOLhyphen"/>lution, that for five Weeks he kept his Word. In all which time, when ere they met, they ſaluted each other with ſuch a
+<pb n="115" facs="tcp:137650:61"/>ſad Formality, as if they were paſſing by to go contrary ways to Execution. By this time ſhe began to ſoften, and wou'd have ſubmitted to any thing, but Speaking to him firſt. And to paſs over that, ſhe had no way but to pretend to <hi>Madame de St. Maure,</hi> (who ſhe knew, wou'd tell the <hi>Count</hi> again) that he, ſince their falling out, had ungenerouſly ſpoken baſely of her. This ſhe believ'd wou'd bring the <hi>Count</hi> to vindicate himſelf; and ſo they might make up all again. Which De<g ref="char:EOLhyphen"/>ſign took to her Wiſh; for in few days, the Court going to <hi>St. Cloud,</hi> where the <hi>Count</hi> and <hi>Mademoiſelle de Poictiers</hi> went too with the <hi>Daulphine-Queen,</hi>
+               <pb n="116" facs="tcp:137650:62"/>he went one day to <hi>Paris,</hi> to viſit ſome Friends of his; and returning in the Evening back again, he walk'd very thought<g ref="char:EOLhyphen"/>fully along thoſe Walks, that borders upon the River, where he found <hi>Mademoiſelle de Poi<g ref="char:EOLhyphen"/>ctiers</hi> all alone, having ſlipt a<g ref="char:EOLhyphen"/>way from the other Maids that were walking above. As ſoon as ſhe perceiv'd he ſaw her, ſhe pretended to ſhun him; but he ſeeing it, went ſtraight up to her: <hi>Madame,</hi> (ſaid he) <hi>I did not think you wou'd have held ſo injurious an Opinion of me, as to think, that I can rail at you, whom I love above my Life.</hi>
+            </p>
+            <p>She turn'd about haſtily, and darting from her Eyes Rage
+<pb n="117" facs="tcp:137650:62"/>(inſtead of Love) at him, brake out into theſe words: <hi>Traitour, baſe, inhuman Man, ſhame of thy Sex, and Curſe to me, who love thee! Think, how you drew me to it by a thouſand Oaths and Promiſes, which (in a moment) for one raſh Word, you have broke! By your deluſive Arts, you led me to a high and ſlippery Precipice, then left me alone to fall head-long into my Grave. Now conſider thy own Ingrati<g ref="char:EOLhyphen"/>tude, then bluſh to look upon me.</hi>
+            </p>
+            <p>
+               <hi>Madame,</hi> (ſaid he) <hi>'tis only for thoſe who are Guilty, to bluſh; but for me, who proteſt my ſelf innocent of any thing either ſpo<g ref="char:EOLhyphen"/>ken, or thought against you: I can only tell you, That your In<g ref="char:EOLhyphen"/>formations
+<pb n="118" facs="tcp:137650:63"/>have been all moſt no<g ref="char:EOLhyphen"/>toriouſly falſe: And to ſhew, that what I ſay is true, here I ſwear and vow, never to love any but your ſelf, if you will only conde<g ref="char:EOLhyphen"/>ſcend to my last Requeſt:</hi> Which ſhe (after much railing at his Ingratitude) yielded to; and withal, gave him much greater marks of her Love, than ſhe had ever done before.</p>
+            <p>She went ſtraight that night, and ſupp'd with <hi>Madam de St. Maure,</hi> to whom ſhe told all that had paſs'd; at which ſhe extreamly rejoyc'd; for ſhe had been in great pain, leſt the Breach between them, might be a means to publiſh her Love to <hi>Chaſtillon.</hi>
+            </p>
+            <pb n="119" facs="tcp:137650:63"/>
+            <p>They liv'd thus, and injoy<g ref="char:EOLhyphen"/>ed (for a great while undi<g ref="char:EOLhyphen"/>ſturb'd) the Sweets of Love; and, as they thought, unob<g ref="char:EOLhyphen"/>ſerv'd: But the continual fan<g ref="char:EOLhyphen"/>taſtical Quarrels, that happen'd between the Count <hi>de St. Lau<g ref="char:EOLhyphen"/>rans,</hi> and <hi>Mademoiſelle de Poi<g ref="char:EOLhyphen"/>ctiers,</hi> were cauſes of much Unhappineſs to them all after<g ref="char:EOLhyphen"/>wards; for they gave occaſion to the World to ſearch deeper into their Actions; and ſo to perceive the Kindneſs, that there was between <hi>Chaſtillon,</hi> and the Counteſs <hi>de St. Maure.</hi> For many People had been en<g ref="char:EOLhyphen"/>deavouring to plumb the bot<g ref="char:EOLhyphen"/>tom of both the Count <hi>St. Lau<g ref="char:EOLhyphen"/>ran's,</hi> and <hi>Mademoiſelle de Poi<g ref="char:EOLhyphen"/>ctier's</hi>
+               <pb n="120" facs="tcp:137650:64"/>five Weeks ſadneſs; and eſpe<g ref="char:EOLhyphen"/>cially thoſe, who were con<g ref="char:EOLhyphen"/>cern'd on either ſide: Which was the Beginning of their in<g ref="char:EOLhyphen"/>ſuing Troubles.</p>
+            <trailer>End of the Firſt Part.</trailer>
+            <pb facs="tcp:137650:64"/>
+         </div>
+      </body>
+   </text>
+</TEI>
